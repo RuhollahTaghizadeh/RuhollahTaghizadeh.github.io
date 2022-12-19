@@ -1,0 +1,46 @@
+---
+title: Spatial Prediction of Soils 
+author: Ruhollah Taghizadeh
+date: '2022-08-17'
+slug: Spatial Prediction of Soils  
+categories: [rmarkdown]
+tags: []
+subtitle: 'The inherent spatial and temporal variability of soil means that its properties vary markedly with location and time. This spatial and temporal variability can happen as a result of agricultural management, land use, erosion, landforms, geomorphic elements and soil management practices.'
+summary: 'Spatial information about the soil is needed increasingly for making informed management decisions about the environment, particularly with regard to developing different types of agriculture.'
+authors: 
+  - admin
+lastmod: '2022-08-17T13:21:49-07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+<style>
+body {
+text-align: justify}
+</style>
+```{r, include=FALSE}
+library(icons)
+```
+
+
+{{< toc >}} 
+
+## Motivation
+</style>
+body {
+text-align: justify}
+</style>
+Estimating and predicting the spatial distribution of soil properties is a critical factor for sustainable land management. Soil property maps produced from conventional polygon-based soil survey maps are not sufficient for determining optimal management approaches because they do not show the spatial variability of soil properties at the level of detail required for many applications so they are generally not considered suitable for providing quantitative information on soil properties for management. There is a growing demand for detailed soil surveys for a variety of purposes, particularly agriculture, engineering and resource conservation around the world, but worldwide, detailed soil survey maps are only available in a few areas. Digital soil mapping (DSM) has improved the mapping of soil features by improving accuracy, economic efficiency and spatial resolution. The main strength of DSM is that the use of geographic information systems, environmental and climatic covariate data, helps reduce the cost of laboratory and fieldwork.
+
+## Objectives
+
+I have implemented this project to answer three main questions:
+
+1.How to apply and compare ML models for soil mapping? 
+
+2.How to improve the performances of ML models? 
+
+3.How to train ML models with a small dataset?
