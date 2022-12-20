@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/13/9/1698
-title: Spatiotemporal Analysis of Heavy Metals Using Digital Soil Assessment
+title: Spatiotemporal Analysis of Heavy Metals Using ML
 authors: 
   - admin
 ---

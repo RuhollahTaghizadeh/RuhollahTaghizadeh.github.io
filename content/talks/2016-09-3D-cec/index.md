@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/03650340.2015.1038253
-title: Mapping of Cation Exchange Capacity Using genetic Programming
+title: Mapping of CEC via genetic Programming
 authors: 
   - admin
 ---

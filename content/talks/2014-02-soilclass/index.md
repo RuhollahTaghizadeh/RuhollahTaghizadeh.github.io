@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/abs/10.1080/15324982.2013.828801
-title: Digital Mapping of Soil Classes Using Decision Tree
+title: Mapping of Soil Classes Using Decision Tree
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0165232X15002645
-title: Artificial Neural Network for Estimating Spatial Sistribution of Snow Depth
+title: ANN for Estimating Spatial Sistribution of Snow Depth
 authors: 
   - admin
 ---

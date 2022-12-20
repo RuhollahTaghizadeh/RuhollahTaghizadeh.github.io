@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0016706119312777
-title: Multi Task Convolutional Neural Networks for Mapping Soils
+title: Multi Task CNNs for Mapping Soils
 authors: 
   - admin
 ---

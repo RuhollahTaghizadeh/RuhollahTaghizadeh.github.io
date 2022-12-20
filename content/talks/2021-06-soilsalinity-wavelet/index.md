@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://linkinghub.elsevier.com/retrieve/pii/S0016706120325489
-title: Spatial Prediction of Soil Salinity Using Wavelet Transformation and SVR
+title: Soil Salinity Prediction Using Wavelet and SVR
 authors: 
   - admin
 ---

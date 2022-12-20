@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0016706115001147
-title: Comparing Data Mining Classifiers to Predict USDA Soil Groups
+title: Data Mining Classifiers to Predict USDA Soil Groups
 authors: 
   - admin
 ---

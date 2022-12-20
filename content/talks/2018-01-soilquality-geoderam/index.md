@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0016706117314003
-title: Assessing the Effects of Slope Gradient on Soil Quality Degradation
+title: Effects of Slope Gradient on Soil Quality Degradation
 authors: 
   - admin
 ---

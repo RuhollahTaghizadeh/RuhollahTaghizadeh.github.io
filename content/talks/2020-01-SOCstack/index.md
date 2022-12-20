@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/12/7/1095
-title: Spatial Prediction of SOC by Stacking Machine Learning Models
+title: Prediction of SOC by Stacking Machine Learning Models
 authors: 
   - admin
 ---

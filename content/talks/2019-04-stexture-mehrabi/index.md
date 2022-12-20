@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2571-8789/3/4/65
-title: The Spatial Prediction of Soil Texture Fractions in Arid Regions
+title: Prediction of Soil Texture Fractions 
 authors: 
   - admin
 ---

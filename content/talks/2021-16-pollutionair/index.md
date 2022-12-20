@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1309104221001306
-title: Predicting the Ground Level Pollutants Using Machine Learning
+title: Predicting the Ground Level Pollutants
 authors: 
   - admin
 ---

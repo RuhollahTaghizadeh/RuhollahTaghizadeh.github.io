@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/17583004.2017.1330593
-title: Artificial Bee Colony Combined with Machine Learning to Predict Distribution of SOC
+title: Artificial Bee Colony to Predict SOC
 authors: 
   - admin
 ---

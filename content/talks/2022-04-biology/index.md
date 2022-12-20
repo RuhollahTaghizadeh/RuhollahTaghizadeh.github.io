@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s42729-021-00726-3
-title: Phosphate Solubilizing Fluorescent Pseudomonads in Fertilizer Use 
+title: Phosphate Solubilizing Fluorescent Pseudomonads 
 authors: 
   - admin
 ---

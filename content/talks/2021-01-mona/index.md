@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/13/21/4243
-title: Optimization of Rain Gauge Networks Using Remote Sensing
+title: Rain Gauge Networks Using Remote Sensing
 authors: 
   - admin
 ---
