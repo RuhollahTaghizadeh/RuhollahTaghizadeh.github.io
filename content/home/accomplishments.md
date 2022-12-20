@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-active: false
+active: true
 
 headless: true
 
