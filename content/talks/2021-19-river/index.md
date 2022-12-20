@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s12517-021-07922-6
-title: Prediction of River Suspended Sediment Load Using Machine Learning Models
+title: Prediction of River Suspended Sediment Load
 authors: 
   - admin
 ---

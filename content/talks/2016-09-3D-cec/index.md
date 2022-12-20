@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/03650340.2015.1038253
-title: 3D Digital Mapping of Cation Exchange Capacity using Soil Depth Functions
+title: Mapping of Cation Exchange Capacity Using genetic Programming
 authors: 
   - admin
 ---

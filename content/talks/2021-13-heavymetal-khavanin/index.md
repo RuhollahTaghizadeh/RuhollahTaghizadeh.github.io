@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s12665-021-09758-5
-title: Dust Related Impacts of Mining Operations on Rangeland Vegetation and Soil
+title: Dust Related Impacts of Mining Operations on Soil
 authors: 
   - admin
 ---

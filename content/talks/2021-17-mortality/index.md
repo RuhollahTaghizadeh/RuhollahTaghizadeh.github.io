@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1309104220303044?via%3Dihub
-title: Long Term Effects of Outdoor Air Pollution on Mortality and Morbidity Prediction
+title: Effects of Outdoor Air Pollution on Mortality and Morbidity
 authors: 
   - admin
 ---

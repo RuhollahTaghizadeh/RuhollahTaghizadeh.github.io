@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0048969719304966
-title: New Analytical Framework for Automated Evaluation of Geo-environmental Modelling
+title: Framework for Automated Evaluation of Geo-environmental Modelling
 authors: 
   - admin
 ---

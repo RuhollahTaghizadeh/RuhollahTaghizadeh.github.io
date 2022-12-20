@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/ejss.12893
-title: Synthetic Resampling Strategies and Machine Learning for Digital Soil Mapping
+title: Synthetic Resampling Strategies and Machine Learning
 authors: 
   - admin
 ---

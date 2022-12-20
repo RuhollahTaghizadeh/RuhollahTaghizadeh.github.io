@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1309104220302579?via%3Dihub
-title: Machine Learning for Predicting the Temporal Variations of Dust Storm Index
+title: Machine Learning for Predicting the Dust Storm Index
 authors: 
   - admin
 ---

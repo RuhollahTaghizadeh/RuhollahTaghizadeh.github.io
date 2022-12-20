@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0341816221001399?via%3Dihub
-title: Using Fourier Transform Infrared Spectroscopy to Predict SOC
+title: Fourier Transform Infrared Spectroscopy to Predict SOC
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/B9780323898614000117
-title: Spatiotemporal Changes of Soil Salinity and Alkalinity
+title: Spatiotemporal Changes of Soil Alkalinity
 authors: 
   - admin
 ---

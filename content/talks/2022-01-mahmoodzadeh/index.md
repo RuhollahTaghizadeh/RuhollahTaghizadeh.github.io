@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/sum.12753
-title: New Hybrid Evolutionary Models for Spatial Prediction of Soils
+title: Hybrid Evolutionary Models for Spatial Prediction of Soils
 authors: 
   - admin
 ---

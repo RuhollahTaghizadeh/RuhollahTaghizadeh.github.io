@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0143622820304069
-title: Impacts of Vegetation Anomalies and Agricultural Drought on Wind Erosion
+title: Impacts of Vegetation Anomalies on Wind Erosion
 authors: 
   - admin
 ---

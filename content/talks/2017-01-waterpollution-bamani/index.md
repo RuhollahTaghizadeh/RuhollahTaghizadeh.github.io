@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0025326X17305969
-title: Ecological Risk of Polycyclic Aromatic Hydrocarbons in Sediments of Wetland
+title: Ecological Risk of Polycyclic Aromatic Hydrocarbons in Wetland
 authors: 
   - admin
 ---

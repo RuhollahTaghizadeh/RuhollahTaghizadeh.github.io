@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://linkinghub.elsevier.com/retrieve/pii/S0016706121001889
-title: Enhancing the Accuracy of Machine Learning Models Using the Super Learner
+title: Enhancing of Machine Learning Models Using the Super Learner
 authors: 
   - admin
 ---

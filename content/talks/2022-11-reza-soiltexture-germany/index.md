@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/14/3/472
-title: Digital Soil Texture Mapping Using Sentinel-1, Sentinel-2, and Terrain-Derived Covariates
+title: Soil Texture Mapping Using Remote Sensing
 authors: 
   - admin
 ---
