@@ -10,7 +10,6 @@ links:
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0016706122004013
 title: Semisupervised Learning for the Spatial Extrapolation
-url_pdf: ""
 authors: 
   - admin
 ---
