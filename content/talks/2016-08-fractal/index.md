@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/abs/10.1080/03650340.2015.1043898
-title: Soil structure changes due to different landuse practices in the central Zagruos region Iran
+title: Soil Structure Changes due to Different Landuse Practices
 authors: 
   - admin
 ---

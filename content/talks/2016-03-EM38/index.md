@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S235200941630027X?via%3Dihub
-title: Probabilistic inversion of EM38 data for 3D soil mapping in central Iran
+title: Probabilistic Inversion of EM38 Data for 3D Soil Mapping
 authors: 
   - admin
 ---

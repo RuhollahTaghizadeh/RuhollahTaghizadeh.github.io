@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/10798587.2015.1120991
-title: Comparison of different methods for reconstruction of instantaneous peak flow data
+title: Different methods for Reconstruction of Instantaneous Peak Flow
 authors: 
   - admin
 ---

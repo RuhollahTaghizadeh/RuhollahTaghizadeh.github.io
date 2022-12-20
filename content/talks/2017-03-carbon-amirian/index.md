@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s10661-017-5830-9
-title: Spatial 3D distribution of soil organic carbon under different land use types
+title: Spatial 3D Distribution of SOC under Different Land Use
 authors: 
   - admin
 ---

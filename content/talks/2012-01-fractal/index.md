@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://journals.lww.com/soilsci/Abstract/2012/08000/Estimating_Mass_Fractal_Dimension_of_Soil_Using.1.aspx
-title: Estimating Mass Fractal Dimension of Soil for Improved Prediction of Water Retention Curve
+title: Estimating Mass Fractal Dimension
 authors: 
   - admin
 ---

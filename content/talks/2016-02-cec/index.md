@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0016706115301282
-title: Using the nonparametric k nearest neighbor approach for predicting cation exchange capacity
+title: Nearest Neighbor Method for Predicting Cation Exchange Capacity
 authors: 
   - admin
 ---

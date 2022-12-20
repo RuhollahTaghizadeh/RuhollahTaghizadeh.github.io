@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://essd.copernicus.org/articles/10/1237/2018/
-title: Development and analysis of the Soil Water Infiltration Global database
+title: Development of the Soil Water Infiltration Global Database
 authors: 
   - admin
 ---

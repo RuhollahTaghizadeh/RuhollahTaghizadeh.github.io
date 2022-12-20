@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s11356-018-1942-1
-title: Distribution of linear alkylbenzenes as a domestic sewage molecular marker in surface sediments of International Anzali Wetland in the southwest of the Caspian Sea Iran
+title: Distribution of Linear Alkylbenzenes in Surface Sediments of Wetland
 authors: 
   - admin
 ---

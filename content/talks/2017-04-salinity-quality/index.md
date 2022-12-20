@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S1470160X1730479X
-title: Assessment of soil quality indices for salt affected agricultural land in Kurdistan Province Iran
+title: Assessment of Soil Quality for Salt Affected Agricultural Land
 authors: 
   - admin
 ---

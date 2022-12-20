@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/17583004.2017.1330593
-title: Artificial bee colony feature selection algorithm combined with machine learning algorithms to predict vertical and lateral distribution of soil organic matter in South Dakota USA
+title: Artificial Bee Colony Combined with Machine Learning to Predict Distribution of SOC
 authors: 
   - admin
 ---

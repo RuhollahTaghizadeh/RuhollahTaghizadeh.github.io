@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1464343X18301109
-title: Evaluating desertification using remote sensing technique and object-oriented classification algorithm in the Iranian central desert
+title: Evaluating Desertification Using Remote Sensing and Object-Oriented Classification
 authors: 
   - admin
 ---

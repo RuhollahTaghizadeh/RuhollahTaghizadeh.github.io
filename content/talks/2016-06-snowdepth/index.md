@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0165232X15002645
-title: Comparison of artificial neural network and decision tree models in estimating spatial distribution of snow depth in a semiarid region of Iran
+title: Artificial Neural Network for Estimating Spatial Sistribution of Snow Depth
 authors: 
   - admin
 ---

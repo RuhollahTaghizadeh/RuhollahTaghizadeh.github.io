@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0016706115301543
-title: Digital mapping of soil organic carbon at multiple depths using different data mining techniques in Baneh region Iran
+title: Digital Mapping of SOC at Multiple Depths
 authors: 
   - admin
 ---
