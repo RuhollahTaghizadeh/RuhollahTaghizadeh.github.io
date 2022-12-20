@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/17583004.2018.1553434
-title: SOC Stocks under Land-Use Change Scenarios
+summary: In the area, approximately 18.48% of forestland and 17.39% of wetland has been brought into cultivation. The authors estimate that this has led to a loss of SOCS from forestland topsoil of 22,860 Mg C. The SOCS loss from wetland topsoil was not as great, at 4193 Mg C, but this was due to the area not being as large. 
+title: SOC Stocks under Land-Use Changes
 authors: 
   - admin
 ---

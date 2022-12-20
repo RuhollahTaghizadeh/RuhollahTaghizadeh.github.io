@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/abs/10.1080/03650340.2013.817666
-title: Soil Mineralogical Changes due to Desertification Processes
+summary: Nine pedons and 30 surface samples were taken, described, and analyzed to investigate the effect of desertification on soil quality indices, mineralogical, and micromorphological properties of three regions (desert, semi-desert, non-desert) in central Iran. 
+title: Soil Changes due to Desertification
 authors: 
   - admin
 ---

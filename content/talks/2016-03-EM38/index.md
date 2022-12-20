@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S235200941630027X?via%3Dihub
-title: Probabilistic Inversion of EM38 Data for 3D Soil Mapping
+summary: In this paper, we applied a probabilistic optimization approach, namely DREAM, on Geonics EM38 data to explore the robustness of this approach for soil subsurface conductivity mapping. . 
+title: Inversion of EM38 for 3D Mapping
 authors: 
   - admin
 ---

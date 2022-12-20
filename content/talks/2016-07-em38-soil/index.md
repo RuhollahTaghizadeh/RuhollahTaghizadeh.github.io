@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/abs/10.1080/15324982.2015.1046092
-title: Prediction of Soil Salinity Using Genetic Programming
+summary: In this article, we attempted to investigate soil salinity variation via a digital soil mapping approach and genetic programming in an arid region and results indicated that the model predicted ECe over the study area accurately .
+title: Soil Salinity Prediction Using Genetic Programming
 authors: 
   - admin
 ---

@@ -9,6 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0341816222001904
+summary: This study demonstrates a framework for assessing the impacts of deforestation on the spatial patterns of soils using DSM techniques, which will facilitate effective land use planning and sustainable forest resource management strategies. 
 title: Soil Quality Between Protected and Degraded Forests
 authors: 
   - admin

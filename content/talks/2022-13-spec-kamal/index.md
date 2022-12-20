@@ -9,6 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/full/10.1080/10106049.2022.2138565
+summary: Vis-NIR spectroscopic data was combined with DEM-derived topographic data and remote sensing data using an RF model hybridized with a particle swarm optimization algorithm for predicting the spatial variability of soil surficial clay contents, EC, and CCE for the agriculturally-intensive region of Kurdistan, Iran.
 title: Prediction of Soils Using Spectroscopy
 authors: 
   - admin

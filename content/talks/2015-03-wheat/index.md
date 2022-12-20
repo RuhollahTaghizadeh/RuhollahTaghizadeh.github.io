@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/abs/10.1080/03650340.2014.943198
-title: Effects of Drought Stress on Antioxidant Systems of Maize
+summary: Drought is a problem of the expanding universe which seriously influences crop production and quality. The present study aimed to determine the effects of drought and rewatering on activities of antioxidant enzymes, chlorophyll, proline, and relative water contents. 
+title: Drought Stress on Antioxidant Systems of Maize
 authors: 
   - admin
 ---

@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/12/14/2234
-title: Mapping of SOC Using Machine Learning Models
+summary: The objective of this study was to determine a reliable algorithm for predicting the SOC contents through consideration of six different ML algorithms and using 105 environmental auxiliary variables derived from terrain attributes, remote sensing, and climatic data. The results show that the DNN algorithm outperformed other ML algorithms in terms of the power of the prediction uncertainty at the province scale. 
+title: Mapping of SOC Using Deep ANNs
 authors: 
   - admin
 ---

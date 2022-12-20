@@ -9,6 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1470160X20306737
+summary: The results of the study of soil quality changes can be used in land evaluation, environmental studies and integrated planning and management in order to properly and reasonably utilize natural resources and reduce future soil degradation. 
 title: Spatiotemporal Dynamic of Soil Quality
 authors: 
   - admin

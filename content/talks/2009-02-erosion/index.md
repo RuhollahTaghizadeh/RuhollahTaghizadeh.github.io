@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: http://www.international-agrophysics.org/Using-soil-binders-to-control-runoff-and-soil-loss-in-steep-slopes-under-simulated,106421,0,2.html
-title: Using Soil Binders to Control Runoff and Soil Loss
+summary: In this study the effects of soil binders were investigated using the rainfall simulator and small flume facilities of IRFRI erosion laboratory. . It was found that at steep slopes higher soil binder application rates are required to enhance soil structure stability, to reduce runoff and soil erosion. 
+title: Soil Binders to Control Soil Loss
 authors: 
   - admin
 ---

@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/13/9/1698
-title: Spatiotemporal Analysis of Heavy Metals Using ML
+summary: This study our aim was to develop a model to predict soil adsorbable heavy metals in arid regions from 1986 to 2016. The overall trends indicated that the concentration and spatial distribution of these heavy metals have historically increased from 1986 to 2016.  
+title: Spatiotemporal Analysis of Heavy Metals
 authors: 
   - admin
 ---

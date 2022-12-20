@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s11629-009-1033-3
-title: Micromorphological Evidences of Climatic Change
+summary: The fact of, present is the key of the past, will help us to use paleosols properties as indicators of the ecological characteristics of past time, particularly the paleoclimate. In this respect the micromorphological properties showed to be a very good indicator. 
+title: Evidences of Climatic Change
 authors: 
   - admin
 ---

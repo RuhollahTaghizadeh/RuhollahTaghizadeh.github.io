@@ -9,6 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0341816221001399?via%3Dihub
+summary: The present study introduced a novel approach for predicting SOC by using a combination of environmental variables with FTIR spectra using tree-based ML models and the hybrid of tree-based models with BA algorithm.
 title: Fourier Transform Infrared Spectroscopy to Predict SOC
 authors: 
   - admin

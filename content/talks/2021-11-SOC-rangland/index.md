@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s10661-021-09543-8
-title: Spatial Prediction of SOC Using Machine Learning Models
+summary: Remote sensing indices obtained from Sentinel-2 satellite images are closely related to SOCS changes in the study area. Therefore, using environmental variables with high spatial resolution greatly increases the accuracy of predicting the target variable, while saving costs and time for researches. 
+title: SOC Prediction in Rangelands
 authors: 
   - admin
 ---

@@ -19,7 +19,7 @@ content:
 design:
   columns: '4'
 
-  view: 4
+  view: 2
 
   flip_alt_rows: false
 ---

@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0016706115001147
-title: Data Mining Classifiers to Predict USDA Soil Groups
+summary: In this research, we investigate the predictive power of six  data mining classifiers to estimate USDA soil groups. Our results showed that no improvement was obtained in prediction accuracy of DTA algorithm with minimizing taxonomic distance compared to minimizing misclassification error. 
+title: Data Mining to Classify Soil Groups
 authors: 
   - admin
 ---

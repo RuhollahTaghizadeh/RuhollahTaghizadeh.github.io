@@ -9,7 +9,8 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s12517-019-4910-2
-title: Soil Enzyme Activity Variations in Riparian Forests
+summary: Riparian forests are important ecosystems especially in arid zones but no information is available about soil enzyme activity in this ecosystem. Therefore, the objectives of this study were to explore some soil enzyme activities and investigate which soil physico-chemical factors affect these soil enzyme activities in riparian forests the most. 
+title: Soil Enzyme Activity in Riparian Forests
 authors: 
   - admin
 ---
