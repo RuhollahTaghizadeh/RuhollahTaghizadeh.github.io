@@ -17,7 +17,7 @@ content:
 
 
 design:
-  columns: '2'
+  columns: '4'
 
   view: 4
 
