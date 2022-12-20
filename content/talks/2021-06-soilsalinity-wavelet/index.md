@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://linkinghub.elsevier.com/retrieve/pii/S0016706120325489
-title: Improving the spatial prediction of soil salinity in arid regions using wavelet transformation and support vector regression models
+title: Spatial Prediction of Soil Salinity Using Wavelet Transformation and SVR
 authors: 
   - admin
 ---

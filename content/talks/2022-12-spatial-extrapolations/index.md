@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0016706122004013
-title: Semi-supervised learning for the spatial extrapolation of soil information
+title: Semi-supervised Learning for the Spatial Extrapolation of Soil Information
 url_pdf: ""
 authors: 
   - admin

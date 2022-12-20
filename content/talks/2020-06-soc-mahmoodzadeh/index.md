@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S2352009420300092
-title: Spatial prediction of soil organic carbon using machine learning techniques in western Iran
+title: Spatial Prediction of SOC Using Machine Learning Models
 authors: 
   - admin
 ---

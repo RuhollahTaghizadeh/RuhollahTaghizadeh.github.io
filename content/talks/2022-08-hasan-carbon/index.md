@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2073-4395/12/3/628
-title: Spatiotemporal Assessment of Soil Organic Carbon Change Using Machine Learning in Arid Regions
+title: Spatiotemporal Assessment of SOC Using Machine Learning
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/13/21/4243
-title: Optimization of Rain Gauge Networks for Arid Regions Based on Remote Sensing Data
+title: Optimization of Rain Gauge Networks Based on Remote Sensing
 authors: 
   - admin
 ---

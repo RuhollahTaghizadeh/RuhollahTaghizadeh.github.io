@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0016706119312777
-title: Multi task convolutional neural networks outperformed random forest for mapping soil particle size fractions in central Iran
+title: Multi Task Convolutional Neural Networks for Mapping Soil Particle Size Fractions
 authors: 
   - admin
 ---

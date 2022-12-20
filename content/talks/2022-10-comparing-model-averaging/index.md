@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/14/3/472
-title: A comparison of model averaging techniques to predict the spatial distribution of soil properties
+title: Model Averaging Techniques to Predict Soil Properties
 authors: 
   - admin
 ---

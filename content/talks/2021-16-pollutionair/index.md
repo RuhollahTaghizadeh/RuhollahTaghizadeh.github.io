@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1309104221001306
-title: Predicting the ground level pollutants concentrations and identifying the influencing factors using machine learning wavelet transformation and remote sensing techniques
+title: Predicting the Ground Level Pollutants Using Machine Learning and Remote Sensing
 authors: 
   - admin
 ---

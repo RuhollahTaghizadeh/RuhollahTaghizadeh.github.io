@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://linkinghub.elsevier.com/retrieve/pii/S0016706121001889
-title: Enhancing the accuracy of machine learning models using the super learner technique in digital soil mapping
+title: Enhancing the Accuracy of Machine Learning Models Using the Super Learner
 authors: 
   - admin
 ---

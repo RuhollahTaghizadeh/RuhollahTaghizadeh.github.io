@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0341816221002952?via%3Dihub
-title: Predicting weathering indices in soils using FTIR spectra and random forest models
+title: Predicting Weathering Indices Using FTIR Spectra and Random Forest
 authors: 
   - admin
 ---

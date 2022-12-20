@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.175
-title: A statistical approach to study the spatial heavy metal distribution in soils in the Kushk Mine Iran
+title: A statistical approach to Study the Spatial Heavy Metal Distribution
 authors: 
   - admin
 ---

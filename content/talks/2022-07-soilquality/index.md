@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0341816222001904
-title: Assessing changes in soil quality between protected and degraded forests using digital soil mapping for semiarid oak forests Iran
+title: Assessing Changes in Soil Quality Between Protected and Degraded Forests
 authors: 
   - admin
 ---

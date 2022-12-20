@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://linkinghub.elsevier.com/retrieve/pii/S0016706120326136
-title: Assessing agricultural salt affected land using digital soil mapping and hybridized random forests
+title: Assessing Agricultural Salt Affected Land Using Hybridized Random Forests
 authors: 
   - admin
 ---

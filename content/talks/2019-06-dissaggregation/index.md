@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s10661-019-7942-x
-title: Disaggregation of conventional soil map by generating multi realizations of soil class distribution
+title: Disaggregation of Conventional Soil Map
 authors: 
   - admin
 ---

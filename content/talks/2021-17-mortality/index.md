@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1309104220303044?via%3Dihub
-title: Long term effects of outdoor air pollution on mortality and morbidity prediction using nonlinear autoregressive and artificial neural networks models
+title: Long Term Effects of Outdoor Air Pollution on Mortality and Morbidity Prediction
 authors: 
   - admin
 ---

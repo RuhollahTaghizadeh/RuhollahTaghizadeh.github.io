@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S1309104220302579?via%3Dihub
-title: Evaluation of machine learning models for predicting the temporal variations of dust storm index in arid regions of Iran
+title: Machine Learning for Predicting the Temporal Variations of Dust Storm Index
 authors: 
   - admin
 ---

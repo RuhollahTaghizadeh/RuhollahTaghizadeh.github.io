@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S2352938520302366?via%3Dihub
-title: Remote and Vis NIR spectra sensing potential for soil salinization estimation in the eastern coast of Urmia hyper saline lake Iran
+title: Remote and Vis NIR Spectra Sensing Potential for Soil Salinization Estimation
 authors: 
   - admin
 ---

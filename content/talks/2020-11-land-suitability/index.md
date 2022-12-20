@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2073-4395/10/4/573
-title: Land Suitability Assessment and Agricultural Production Sustainability Using Machine Learning Models
+title: Land Suitability Assessment Using Machine Learning Models
 authors: 
   - admin
 ---

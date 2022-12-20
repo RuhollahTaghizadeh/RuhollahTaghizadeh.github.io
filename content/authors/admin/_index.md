@@ -35,7 +35,7 @@ highlight_name: no
 body {
 text-align: justify}
 </style>
-My primary research interest is in [**Pedometrics**](http://pedometrics.org/) with particular focus on remote/proximal soil sensing and [**Digital Soil Mapping**](https://en.wikipedia.org/wiki/Digital_soil_mapping) . The core of pedometric approach integrates soil system knowledge with applied statistics, mathematics, and geoinformatics. Basically, my research engages with the most recent technology in spatial modeling, machine learning, and prediction of ecosystem’s components limited to not only soil properties but also the other ecosystem parts such as surface and groundwater, pollution (air, soil, and water), climatic parameters (e.g., precipitation, drought, and flood events), and agricultural characteristics. My research is mainly focused on:
+My primary research interest is in [**Pedometrics**](http://pedometrics.org/) with particular focus on remote/proximal soil sensing and [**Digital Soil Mapping**](https://en.wikipedia.org/wiki/Digital_soil_mapping). The core of pedometric approach integrates soil system knowledge with applied statistics, mathematics, and geoinformatics. Basically, my research engages with the most recent technology in spatial modeling, machine learning, and prediction of ecosystem’s components limited to not only soil properties but also the other ecosystem parts such as surface and groundwater, pollution (air, soil, and water), climatic parameters (e.g., precipitation, drought, and flood events), and agricultural characteristics. My research is mainly focused on:
 
 * Pedology and Digital Soil Mapping
 * GIS, Remote and Proximal Sensing 

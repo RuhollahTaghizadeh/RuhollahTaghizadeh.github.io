@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.mdpi.com/2072-4292/13/9/1698
-title: Spatiotemporal Analysis of Heavy Metals in Arid Soils at the Catchment Scale Using Digital Soil Assessment and a Random Forest Model
+title: Spatiotemporal Analysis of Heavy Metals Using Digital Soil Assessment
 authors: 
   - admin
 ---

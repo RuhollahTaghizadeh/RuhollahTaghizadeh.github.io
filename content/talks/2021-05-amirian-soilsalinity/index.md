@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://onlinelibrary.wiley.com/doi/full/10.1002/ldr.3811
-title: Salt dome related soil salinity in southern Iran Prediction and mapping with averaging machine learning models
+title: Salt Dome Related Soil Salinity Prediction with Averaging ML Models
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s10333-021-00856-5
-title: Effect of interceptor drainage on phosphorus transport and soil chemical characteristics under different cultivation conditions
+title: Effect of Interceptor Drainage on Phosphorus Transport 
 authors: 
   - admin
 ---

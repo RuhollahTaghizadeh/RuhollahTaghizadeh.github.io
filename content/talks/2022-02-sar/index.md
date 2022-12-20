@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/B9780323898614000117
-title: Monitoring of spatiotemporal changes of soil salinity and alkalinity in eastern and central parts of Iran
+title: Spatiotemporal Changes of Soil Salinity and Alkalinity
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0065211320301024
-title: A review of the world soil museums and exhibitions
+title: A Review of the World Soil Museums
 authors: 
   - admin
 ---

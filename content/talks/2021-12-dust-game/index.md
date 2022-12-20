@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S1470160X21009523?via%3Dihub
-title: Determining the contribution of environmental factors in controlling dust pollution during cold and warm months of western Iran using different data mining algorithms and game theory
+title: Determining the Contribution of Environmental Factors in Controlling Dust Pollution Using Game Theory
 authors: 
   - admin
 ---

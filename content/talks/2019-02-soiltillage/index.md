@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0167198718314302
-title: Some practical aspects of predicting texture data in digital soil mapping
+title: Some Practical Aspects of Predicting Texture Data
 authors: 
   - admin
 ---

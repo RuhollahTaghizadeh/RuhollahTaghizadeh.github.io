@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://bsssjournals.onlinelibrary.wiley.com/doi/full/10.1111/sum.12753
-title: New hybrid evolutionary models for spatial prediction of soil properties in Kurdistan
+title: New Hybrid Evolutionary Models for Spatial Prediction of Soils
 authors: 
   - admin
 ---

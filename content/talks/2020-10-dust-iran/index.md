@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0143622820304069
-title: Impacts of vegetation anomalies and agricultural drought on wind erosion over Iran from 2000 to 2018
+title: Impacts of Vegetation Anomalies and Agricultural Drought on Wind Erosion
 authors: 
   - admin
 ---

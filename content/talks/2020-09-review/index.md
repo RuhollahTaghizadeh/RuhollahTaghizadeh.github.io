@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/abs/pii/S0341816219305661
-title: Conventional and digital soil mapping in Iran Past present and future
+title: Conventional and Digital Soil Mapping in Iran
 authors: 
   - admin
 ---
