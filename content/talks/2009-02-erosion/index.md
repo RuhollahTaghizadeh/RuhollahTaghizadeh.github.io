@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: http://www.international-agrophysics.org/Using-soil-binders-to-control-runoff-and-soil-loss-in-steep-slopes-under-simulated,106421,0,2.html
-title: Using soil binders to control runoff and soil loss in steep slopes under simulated rainfall
+title: Using Soil Binders to Control Runoff and Soil Loss
 authors: 
   - admin
 ---

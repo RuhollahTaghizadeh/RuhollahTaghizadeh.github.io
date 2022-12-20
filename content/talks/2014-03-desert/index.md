@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.tandfonline.com/doi/abs/10.1080/03650340.2013.817666
-title: Soil physicochemical mineralogical and micromorphological changes due to desertification processes in Yazd region Iran
+title: Soil Mineralogical and Micromorphological Changes due to Desertification Processes
 authors: 
   - admin
 ---

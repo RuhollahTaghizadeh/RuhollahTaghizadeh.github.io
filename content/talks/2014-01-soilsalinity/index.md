@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0016706113002565
-title: Digital mapping of soil salinity in Ardakan region central Iran
+title: Digital Mapping of Soil Salinity
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://www.sciencedirect.com/science/article/pii/S0016706115001147
-title: Comparing data mining classifiers to predict spatial distribution of USDA family soil groups in Baneh region Iran
+title: Comparing Data Mining Classifiers to Predict USDA Soil Groups
 authors: 
   - admin
 ---

@@ -9,7 +9,7 @@ links:
   icon_pack: fa
   name: DOI
   url: https://link.springer.com/article/10.1007/s11629-009-1033-3
-title: Micromorphological Evidences of Climatic Change in Yazd Region Iran
+title: Micromorphological Evidences of Climatic Change
 authors: 
   - admin
 ---
