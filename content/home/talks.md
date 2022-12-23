@@ -15,7 +15,6 @@ content:
 
   filter_default: 0
 
-
 design:
   columns: '4'
 
