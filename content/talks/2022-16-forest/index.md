@@ -1,6 +1,9 @@
 ---
 title: Predicting Soils in the Riparian Forests
-
+tags:
+  - Digital Soil Mapping
+  - Random Forest
+  - Forests
 date: "2022-12-10T00:00:00Z"
 external_link: ""
 image:

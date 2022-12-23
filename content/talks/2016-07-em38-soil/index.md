@@ -1,4 +1,12 @@
 ---
+tags:
+  - Land Degradation
+  - Arid regions
+  - Soil Salinity
+  - Machine Learning
+  - 3D Modelling
+  - Remote Sensing
+  - Proximal Sensing
 date: "2016-07-24T00:00:00Z"
 external_link: ""
 image:

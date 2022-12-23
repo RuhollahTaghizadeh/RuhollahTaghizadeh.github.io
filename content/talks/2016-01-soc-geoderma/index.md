@@ -1,4 +1,10 @@
 ---
+tags:
+  - Soil Carbon
+  - Machine Learning
+  - 3D Modelling
+  - Remote Sensing
+  - Digital Soil Mapping
 date: "2016-01-24T00:00:00Z"
 external_link: ""
 image:

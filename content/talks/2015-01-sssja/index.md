@@ -1,4 +1,9 @@
 ---
+tags:
+  - Arid regions
+  - Soil Salinity
+  - Land Degradation
+  - Proximal Sensing
 date: "2015-01-24T00:00:00Z"
 external_link: ""
 image:

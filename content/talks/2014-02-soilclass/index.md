@@ -1,4 +1,10 @@
 ---
+tags:
+  - Arid regions
+  - Soil Class
+  - Decision Tree
+  - Digital Soil Mapping
+  - Remote Sensing
 date: "2014-02-24T00:00:00Z"
 external_link: ""
 image:

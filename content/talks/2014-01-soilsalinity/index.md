@@ -1,4 +1,12 @@
 ---
+tags:
+  - Land Degradation
+  - Arid regions
+  - Soil Salinity
+  - Regression Tree
+  - 3D Modelling
+  - Remote Sensing
+  - Proximal Sensing
 date: "2014-01-24T00:00:00Z"
 external_link: ""
 image:

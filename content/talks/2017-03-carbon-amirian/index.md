@@ -1,4 +1,10 @@
 ---
+tags:
+  - Landuse
+  - Soil Organic Carbon
+  - Machine Learning
+  - 3D Modelling
+  - Remote Sensing
 date: "2017-03-24T00:00:00Z"
 external_link: ""
 image:

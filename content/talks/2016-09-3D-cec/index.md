@@ -1,4 +1,9 @@
 ---
+tags:
+  - Cation Exchange Capacity
+  - Machine Learning
+  - 3D Modelling
+  - Remote Sensing
 date: "2016-09-24T00:00:00Z"
 external_link: ""
 image:

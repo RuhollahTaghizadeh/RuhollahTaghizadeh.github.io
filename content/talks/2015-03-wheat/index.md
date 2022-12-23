@@ -1,5 +1,9 @@
 ---
-date: "2015-03-24T00:00:00Z"
+tags:
+  - Wheat
+  - Statistics
+  - Soil Salinity
+  - Drought
 external_link: ""
 image:
   caption: 

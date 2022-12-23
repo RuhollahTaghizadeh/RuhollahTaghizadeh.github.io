@@ -1,4 +1,8 @@
 ---
+tags:
+  - Pedology
+  - Micromorphology
+  - Arid regions
 date: "2009-01-24T00:00:00Z"
 external_link: ""
 image:

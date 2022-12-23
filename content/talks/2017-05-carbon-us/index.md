@@ -1,4 +1,10 @@
 ---
+tags:
+  - Hybrid Models
+  - Soil Organic Carbon
+  - Machine Learning
+  - 3D Modelling
+  - Remote Sensing
 date: "2017-05-24T00:00:00Z"
 external_link: ""
 image:

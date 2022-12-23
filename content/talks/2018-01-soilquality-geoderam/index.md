@@ -1,4 +1,12 @@
 ---
+tags:
+  - Land Degradation
+  - Slope
+  - Soil Quality
+  - Machine Learning
+  - Soil Erosion
+  - Remote Sensing
+  - Digital Soil Mapping
 date: "2018-01-24T00:00:00Z"
 external_link: ""
 image:

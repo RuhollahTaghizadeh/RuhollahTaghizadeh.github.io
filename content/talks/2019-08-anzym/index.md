@@ -1,4 +1,9 @@
 ---
+tags:
+  - Forests
+  - Enzyme
+  - Soil Quality
+  - Statistics
 date: "2019-08-24T00:00:00Z"
 external_link: ""
 image:

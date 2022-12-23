@@ -1,4 +1,7 @@
 ---
+tags:
+  - Disaggregation
+  - Digital Soil Mapping
 date: "2019-06-24T00:00:00Z"
 external_link: ""
 image:

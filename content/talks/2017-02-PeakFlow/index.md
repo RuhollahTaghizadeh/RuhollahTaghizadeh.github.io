@@ -1,4 +1,8 @@
 ---
+tags:
+  - Water
+  - Machine Learning
+  - Predcition
 date: "2017-02-24T00:00:00Z"
 external_link: ""
 image:

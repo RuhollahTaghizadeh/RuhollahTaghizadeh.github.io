@@ -1,4 +1,9 @@
 ---
+tags:
+  - Land Degradation
+  - Forest
+  - Soil Quality
+  - Machine Learning
 date: "2018-05-24T00:00:00Z"
 external_link: ""
 image:
