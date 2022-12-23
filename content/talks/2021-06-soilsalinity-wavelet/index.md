@@ -1,6 +1,6 @@
 ---
 tags:
-  - Selected 
+  - All 
 date: "2021-03-24T00:00:00Z"
 external_link: ""
 image:
