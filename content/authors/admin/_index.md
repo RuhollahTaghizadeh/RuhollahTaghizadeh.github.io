@@ -36,6 +36,7 @@ body {
 text-align: justify}
 </style>
 My primary research interest is in [**Pedometrics**](http://pedometrics.org/) with particular focus on remote/proximal soil sensing and [**Digital Soil Mapping**](https://en.wikipedia.org/wiki/Digital_soil_mapping). The core of pedometric approach integrates soil system knowledge with applied statistics, [**machine learning**](https://en.wikipedia.org/wiki/Machine_learning), and geoinformatics. My research engages with the most recent technology in spatial modeling, geostatistic, machine learning, and prediction of ecosystem’s components limited to not only soil properties but also the other ecosystem parts such as water, vegetation, and climate. 
+
 During my current work at [**University of Tübingen**](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/) I gained deep inside in artificial intelligence through my collaboration with scientists from the cluster of excellence [**Machine Learning for Science**](https://www.machinelearningforscience.de/en/). My research is mainly focused on:
 
 * Pedology and Digital Soil Mapping
