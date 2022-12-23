@@ -1,9 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Soil Quality
-  - Soil Salinity
-  - Spatial Analysis
+  - All
 date: "2017-04-24T00:00:00Z"
 external_link: ""
 image:

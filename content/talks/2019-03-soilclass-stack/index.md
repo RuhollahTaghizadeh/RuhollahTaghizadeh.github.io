@@ -1,9 +1,6 @@
 ---
 tags:
-  - Hybrid Models
-  - Soil Class
-  - Machine Learning
-  - Remote Sensing
+  - All
 date: "2019-03-24T00:00:00Z"
 external_link: ""
 image:

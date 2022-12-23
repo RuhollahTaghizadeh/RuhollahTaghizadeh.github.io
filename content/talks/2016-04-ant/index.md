@@ -1,12 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Arid regions
-  - Hybrid Models
-  - Machine Learning
-  - 3D Modelling
-  - Remote Sensing
-  - Particle Size Fractions
+  - All
 date: "2016-04-24T00:00:00Z"
 external_link: ""
 image:

@@ -1,11 +1,6 @@
 ---
 tags:
-  - Arid regions
-  - Soil Texture
-  - Machine Learning
-  - 3D Modelling
-  - Remote Sensing
-  - Proximal Sensing
+  - All
 date: "2019-04-24T00:00:00Z"
 external_link: ""
 image:

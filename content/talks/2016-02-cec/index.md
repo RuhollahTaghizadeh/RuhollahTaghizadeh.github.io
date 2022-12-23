@@ -1,8 +1,6 @@
 ---
 tags:
-  - Pedotransfer Functions
-  - AMachine Learning
-  - Cation Exchange Capacity
+  - All
 date: "2016-02-24T00:00:00Z"
 external_link: ""
 image:

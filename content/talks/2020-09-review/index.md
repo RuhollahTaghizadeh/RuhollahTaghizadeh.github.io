@@ -1,4 +1,6 @@
 ---
+tags:
+  - All
 date: "2020-09-24T00:00:00Z"
 external_link: ""
 image:

@@ -1,10 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Arid regions
-  - Image Classification
-  - Remote Sensing
-
+  - All
 date: "2018-02-24T00:00:00Z"
 external_link: ""
 image:

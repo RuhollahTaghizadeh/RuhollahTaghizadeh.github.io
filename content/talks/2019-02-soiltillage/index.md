@@ -1,9 +1,6 @@
 ---
 tags:
-  - Soil texture
-  - Machine Learning
-  - Water
-  - Remote Sensing
+  - All
 date: "2019-02-24T00:00:00Z"
 external_link: ""
 image:

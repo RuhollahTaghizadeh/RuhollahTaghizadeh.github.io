@@ -1,8 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Water Pollution
-  - Wetlands
+  - All
 date: "2017-01-24T00:00:00Z"
 external_link: ""
 image:

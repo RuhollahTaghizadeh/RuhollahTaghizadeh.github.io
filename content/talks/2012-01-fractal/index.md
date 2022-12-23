@@ -1,7 +1,6 @@
 ---
 tags:
-  - Soil water
-  - Neural Networks
+  - All
 date: "2012-01-24T00:00:00Z"
 external_link: ""
 image:

@@ -1,4 +1,6 @@
 ---
+tags:
+  - All
 date: "2022-11-24T00:00:00Z"
 external_link: ""
 image:

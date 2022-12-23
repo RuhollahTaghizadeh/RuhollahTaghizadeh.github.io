@@ -1,8 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Soil Erosion
-  - Remote Sensing
+  - All
 date: "2016-05-24T00:00:00Z"
 external_link: ""
 image:

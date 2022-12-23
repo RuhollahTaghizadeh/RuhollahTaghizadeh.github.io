@@ -1,9 +1,6 @@
 ---
 tags:
-  - Wheat
-  - Statistics
-  - Soil Salinity
-  - Drought
+  - All
 external_link: ""
 image:
   caption: 

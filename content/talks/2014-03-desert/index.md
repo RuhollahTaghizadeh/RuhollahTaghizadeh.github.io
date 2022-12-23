@@ -1,9 +1,6 @@
 ---
 tags:
-  - Arid regions
-  - Pedology
-  - Climate Change
-  - Land Degradation
+  - All
 date: "2016-01-24T00:00:00Z"
 external_link: ""
 image:

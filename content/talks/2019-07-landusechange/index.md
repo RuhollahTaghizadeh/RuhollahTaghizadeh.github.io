@@ -1,10 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Landuse Change
-  - Soil Organic Carbon
-  - Machine Learning
-  - Remote Sensing
+  - All
 date: "2019-07-24T00:00:00Z"
 external_link: ""
 image:

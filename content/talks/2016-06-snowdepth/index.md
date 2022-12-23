@@ -1,10 +1,6 @@
 ---
 tags:
-  - Snow
-  - Spatial Analysis
-  - Geostatistics
-  - Machine Learning
-  - Digital Elevation Model
+  - All
 date: "2016-06-24T00:00:00Z"
 external_link: ""
 image:

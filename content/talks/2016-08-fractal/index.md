@@ -1,8 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Landuse Change
-
+  - All
 date: "2016-08-24T00:00:00Z"
 external_link: ""
 image:

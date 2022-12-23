@@ -1,7 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Arid regions
+  - All
 date: "2009-02-24T00:00:00Z"
 external_link: ""
 image:

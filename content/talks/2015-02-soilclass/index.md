@@ -1,10 +1,6 @@
 ---
 tags:
-  - Machine Learning
-  - Soil Class
-  - Regression Tree
-  - Digital Soil Mapping
-  - Remote Sensing
+  - Selected
 date: "2015-02-24T00:00:00Z"
 external_link: ""
 image:

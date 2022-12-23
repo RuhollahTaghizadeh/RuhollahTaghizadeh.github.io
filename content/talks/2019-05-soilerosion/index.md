@@ -1,9 +1,6 @@
 ---
 tags:
-  - Land Degradation
-  - Soil Erosion
-  - Machine Learning
-  - Remote Sensing
+  - All
 date: "2019-05-24T00:00:00Z"
 external_link: ""
 image:
