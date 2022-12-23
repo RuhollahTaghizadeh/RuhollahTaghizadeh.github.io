@@ -4,7 +4,7 @@ active: true
 
 headless: true
 
-weight: 65
+weight: 120
 
 title: Publications
 subtitle: ''
