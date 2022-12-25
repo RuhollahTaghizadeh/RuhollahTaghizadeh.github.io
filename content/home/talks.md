@@ -10,6 +10,7 @@ title: Publications
 subtitle: ''
 
 content:
+
   page_type: talks
 
 
