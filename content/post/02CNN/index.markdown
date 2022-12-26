@@ -15,7 +15,7 @@ links:
   name: DOI
   url:  https://www.sciencedirect.com/science/article/abs/pii/S0016706119312777
 subtitle: 'Multi-task convolutional neural networks outperformed random forest for mapping soil particle size fractions in central Iran'
-summary: 'Although conventional machine learning algorithms, such as random forest or support vector machine, have been extensively used in digital soil mapping to predict the PSF, less research examined the potential of state-of-the-art deep learning approaches for such processing. Importantly, deep learning approaches such as convolutional neural networks (CNNs) are able to incorporate contextual information about the landscape, which is of great use for DSM analysis.'
+summary: 'Although conventional machine learning algorithms, such as random forest, have been extensively used in digital soil mapping to predict the PSF, less research examined the potential of state-of-the-art deep learning approaches for such processing. Convolutional neural networks are able to incorporate contextual information about the landscape, which is of great use for digital soil mapping analysis.'
 authors: 
   - admin
 lastmod: '2022-08-17T13:21:49-07:00'

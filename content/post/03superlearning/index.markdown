@@ -15,7 +15,7 @@ links:
   name: DOI
   url: https://linkinghub.elsevier.com/retrieve/pii/S0016706121001889
 subtitle: 'Enhancing the accuracy of machine learning models using the super learner technique in digital soil mapping'
-summary: 'This study evaluated the super learning approach by combining 12 ML models, which ultimately improved the accuracy of the predicted soil maps in comparison to when the individual base learners were used. Furthermore, a PFI analysis was used to identify the contribution of each covariate on the final prediction.'
+summary: 'This study evaluated the super learning approach by combining 12 ML models, which ultimately improved the accuracy of the predicted soil maps in comparison to when the individual base learners were used. Furthermore, a model agnostic method was used to identify the individual covariates within the overall predictive model. Overall, the proposed approach may be used for improving accuracy of ML models in digital soil mapping.'
 authors: 
   - admin
 lastmod: '2022-08-17T13:21:49-07:00'
