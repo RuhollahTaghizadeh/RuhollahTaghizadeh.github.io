@@ -32,7 +32,7 @@ item:
   date_end: ""
   date_start: "2021-12-28"
   description: ""
-  organization: TU
+  organization: org-gc
   organization_url: 
   title: Science Communication
   url: "https://uni-tuebingen.de/"
