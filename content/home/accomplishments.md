@@ -40,7 +40,7 @@ item:
   date_end: ""
   date_start: "2021-09-28"
   description: ""
-  organization: WUR
+  organization: org-wur
   organization_url: 
   title: Spatial Sampling
   url: "https://www.wur.nl"
@@ -48,7 +48,7 @@ item:
   date_end: ""
   date_start: "2020-09-28"
   description: ""
-  organization: org-WUR
+  organization: org-wur
   organization_url: 
   title: Uncertainty Propagation in Spatial Environmental Modelling
   url: "https://www.wur.nl"
@@ -56,7 +56,7 @@ item:
   date_end: ""
   date_start: "2019-09-28"
   description: ""
-  organization: org-WUR
+  organization: org-wur
   organization_url: 
   title: Geostatistics
   url: "https://www.wur.nl"  
@@ -64,7 +64,7 @@ item:
   date_end: ""
   date_start: "2019-09-28"
   description: ""
-  organization: ISRIC
+  organization: isric
   organization_url: 
   title: Digital Soil Mapping
   url: "https://www.isric.org/"  
