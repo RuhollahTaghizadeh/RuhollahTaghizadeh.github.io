@@ -1,6 +1,7 @@
 ---
 tags:
   - All
+date: "2014-01-24T00:00:00Z"
 external_link: ""
 image:
   caption: 

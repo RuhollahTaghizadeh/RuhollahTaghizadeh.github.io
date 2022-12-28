@@ -24,7 +24,7 @@ item:
   date_end: ""
   date_start: "2022-08-28"
   description: ""
-  organization: AI
+  organization: org-ai
   organization_url: 
   title: Oxford Machine Learning Summer School
   url: "https://www.globalgoals.ai/"
