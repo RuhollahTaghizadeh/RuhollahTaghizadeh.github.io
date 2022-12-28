@@ -9,7 +9,6 @@ email: "ruhollah.taghizadeh-mehrjardi@mnf.uni-tuebingen.de"
 twitter: https://twitter.com/RuhollahTaghiz
 github: shilaan
 orcid: ug7xd #refer to osf in back-end
-linkedin: shilaan@stanford.edu #refer to email in back-end 
 profilepic: img.jpg
 headcolor: "035AA6"
 date: "`r format(Sys.time(), '%B %Y')`"
