@@ -1,73 +1,74 @@
 ---
-widget: accomplishments
+widget: experience
 active: true
 
 headless: true
 
 weight: 50
 
-title: 'Certificates'
+title: Certificates
 subtitle:
 
 date_format: Jan 2006
 
-item:
-- certificate_url:
-  date_end: ""
-  date_start: "2022-09-28"
-  description: ""
-  organization: org-geo
-  organization_url: 
-  title: Open Source Solutions for Earth System Data (R, OSGeo, Python)
-  url: "https://opengeohub.org/"
-- certificate_url: 
-  date_end: ""
-  date_start: "2022-08-28"
-  description: ""
-  organization: org-ai
-  organization_url: 
-  title: Oxford Machine Learning Summer School
-  url: "https://www.globalgoals.ai/"
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-12-28"
-  description: ""
-  organization: org-tu
-  organization_url: 
-  title: Science Communication
-  url: "https://uni-tuebingen.de/"
-- certificate_url: 
-  date_end: ""
-  date_start: "2021-09-28"
-  description: ""
-  organization: org-wur
-  organization_url: 
-  title: Spatial Sampling
-  url: "https://www.wur.nl"
-- certificate_url: 
-  date_end: ""
-  date_start: "2020-09-28"
-  description: ""
-  organization: org-wur
-  organization_url: 
-  title: Uncertainty Propagation in Spatial Environmental Modelling
-  url: "https://www.wur.nl"
-- certificate_url: 
-  date_end: ""
-  date_start: "2019-09-28"
-  description: ""
-  organization: org-wur
-  organization_url: 
-  title: Geostatistics
-  url: "https://www.wur.nl"  
-- certificate_url: 
-  date_end: ""
-  date_start: "2019-09-28"
-  description: ""
-  organization: org-ISRIC
-  organization_url: 
-  title: Digital Soil Mapping
-  url: "https://www.isric.org/"  
+experience:
+  - title: Open Source Solutions for Earth System Data (R, OSGeo, Python)
+    company: OpenGeoHub
+    company_url: 'https://opengeohub.org/'
+    company_logo: org-geo
+    location: Siegburg, Germany
+    date_start: '2022-09-03'
+    date_end: '2022-09-10'
+
+  - title: Oxford Machine Learning Summer School
+    company: AI for Global Goals
+    company_url: 'https://www.globalgoals.ai/'
+    company_logo: org-ai
+    location: ONLINE
+    date_start: '2022-08-01'
+    date_end: '2022-08-25'
+
+  - title: Science Communication
+    company: Tübingen University
+    company_url: 'https://uni-tuebingen.de/'
+    company_logo: org-tu
+    location: Tübingen, Germany
+    date_start: '2021-01-01'
+    date_end: '2022-08-01'
+
+  - title: Spatial Sampling
+    company: Wageningen University & Research
+    company_url: 'https://www.wur.nl'
+    company_logo: org-wur
+    location: Wageningen, Netherlands
+    date_start: '2021-09-01'
+    date_end: '2021-09-09'
+
+  - title: Uncertainty Propagation in Spatial Environmental Modelling
+    company: Wageningen University & Research
+    company_url: 'https://www.wur.nl'
+    company_logo: org-wur
+    location: Wageningen, Netherlands
+    date_start: '2020-09-01'
+    date_end: '2020-09-09'
+
+  - title: Geostatistics
+    company: Wageningen University & Research
+    company_url: 'https://www.wur.nl'
+    company_logo: org-wur
+    location: Wageningen, Netherlands
+    date_start: '2019-09-01'
+    date_end: '2019-09-09'
+
+  - title: Digital Soil Mapping
+    company: ISRIC-International Soil Reference and Information Centre
+    company_url: 'https://www.isric.org/'
+    company_logo: org-isric
+    location: Wageningen, Netherlands
+    date_start: '2018-09-01'
+    date_end: '2018-09-09'    
+    
 design:
-  columns: '2' 
+  columns: '2'
 ---
+
