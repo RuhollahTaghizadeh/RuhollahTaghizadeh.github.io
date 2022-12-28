@@ -16,15 +16,15 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-#  - name: Talks
-#    url: '#talks'
-#    weight: 30
+  - name: Gallery
+    url: '#gallery'
+    weight: 50
 #  - name: Talks
 #    url: '#talks'
 #    weight: 30
   - name: CV
     url: "cv/RT.pdf"
-    weight: 50
+    weight: 60
 #  - name: File Drawer
 #    url: filedrawer/
 #    weight: 30 # keep as draft before committing
