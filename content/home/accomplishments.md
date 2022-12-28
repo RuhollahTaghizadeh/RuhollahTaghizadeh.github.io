@@ -64,7 +64,7 @@ item:
   date_end: ""
   date_start: "2019-09-28"
   description: ""
-  organization: org-isric
+  organization: org-ISRIC
   organization_url: 
   title: Digital Soil Mapping
   url: "https://www.isric.org/"  
