@@ -16,7 +16,7 @@ item:
   date_end: ""
   date_start: "2022-09-28"
   description: ""
-  organization: OpenGeoHub
+  organization: org-geo
   organization_url: 
   title: Open Source Solutions for Earth System Data (R, OSGeo, Python)
   url: "https://opengeohub.org/"
@@ -32,7 +32,7 @@ item:
   date_end: ""
   date_start: "2021-12-28"
   description: ""
-  organization: TU
+  organization: org-tu
   organization_url: 
   title: Science Communication
   url: "https://uni-tuebingen.de/"
@@ -48,7 +48,7 @@ item:
   date_end: ""
   date_start: "2020-09-28"
   description: ""
-  organization: WUR
+  organization: org-WUR
   organization_url: 
   title: Uncertainty Propagation in Spatial Environmental Modelling
   url: "https://www.wur.nl"
@@ -56,7 +56,7 @@ item:
   date_end: ""
   date_start: "2019-09-28"
   description: ""
-  organization: WUR
+  organization: org-WUR
   organization_url: 
   title: Geostatistics
   url: "https://www.wur.nl"  
