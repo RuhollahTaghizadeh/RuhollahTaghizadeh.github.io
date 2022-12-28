@@ -12,7 +12,7 @@ subtitle:
 date_format: Jan 2006
 
 item:
-- certificate_url: 
+- certificate_url:
   date_end: ""
   date_start: "2022-09-28"
   description: ""
@@ -32,7 +32,7 @@ item:
   date_end: ""
   date_start: "2021-12-28"
   description: ""
-  organization: org-gc
+  organization: TU
   organization_url: 
   title: Science Communication
   url: "https://uni-tuebingen.de/"
