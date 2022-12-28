@@ -18,7 +18,7 @@ experience:
     company_logo: org-geo
     location: Siegburg, Germany
     date_start: '2022-09-03'
-    date_end: '2022-09-10'
+    date_end: '2022-09-11'
 
   - title: Oxford Machine Learning Summer School
     company: AI for Global Goals
