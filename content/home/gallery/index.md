@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 140
 
-title: Gallery
+title: Certificates
 subtitle:
 ---
 

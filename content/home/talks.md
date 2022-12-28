@@ -6,7 +6,7 @@ headless: true
 
 weight: 120
 
-title: Publications
+title: All Publications
 subtitle: ''
 
 content:

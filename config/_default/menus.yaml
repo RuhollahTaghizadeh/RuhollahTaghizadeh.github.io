@@ -16,7 +16,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: Gallery
+  - name: Certificates
     url: '#gallery'
     weight: 50
 #  - name: Talks
