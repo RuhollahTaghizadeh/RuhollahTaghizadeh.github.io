@@ -10,11 +10,21 @@ title: All Publications
 subtitle: ''
 
 content:
-
-  page_type: talks
-
+  filters:
+    folders:
+      - talks
+    kinds:
+      - section
+    exclude_tags:
+      - preface
 
   filter_default: 0
+
+  filter_button:
+    - name: All Papers
+      tag: '*'
+    - name: Selected
+      tag: Selected
 
 design:
   columns: '4'

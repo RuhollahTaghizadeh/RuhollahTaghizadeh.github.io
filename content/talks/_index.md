@@ -3,6 +3,6 @@ cms_exclude: false
 header:
   caption: ""
   image: ""
-title: Talks
+title: All Publications
 view: 2
 ---
