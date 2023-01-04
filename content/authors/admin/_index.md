@@ -28,7 +28,7 @@ social:
   link: https://www.linkedin.com/in/ruhollah-taghizadeh-53a0a766/
 - icon: cv
   icon_pack: ai
-  link: cv/RT.pdf
+  link: cv/cv_website.pdf
 superuser: yes
 bio: My research interests include soil mapping, data science, and machine learning 
 greeting: alzahawi::shilaan()

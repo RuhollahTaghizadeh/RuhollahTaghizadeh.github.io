@@ -23,7 +23,7 @@ main:
 #    url: '#talks'
 #    weight: 30
   - name: CV
-    url: "cv/RT.pdf"
+    url: "cv/cv_website.pdf"
     weight: 60
 #  - name: File Drawer
 #    url: filedrawer/
