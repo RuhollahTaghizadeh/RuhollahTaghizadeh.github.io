@@ -28,6 +28,13 @@ projects: []
 ---
 {{< toc >}} 
 
+## Video Abstract
+<center>
+
+{{< youtube Bq7hxWhAGOU >}}
+
+</center>
+
 ## Motivation
 <style>
 body {
