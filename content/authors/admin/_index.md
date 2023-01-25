@@ -17,6 +17,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?hl=en&user=5WvY3u4AAAAJ&view_op=list_works
+- icon: researchgate
+  icon_pack: fab
+  link: https://researchgate.net/profile/Ruhollah-Taghizadeh-2
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4620-6624
