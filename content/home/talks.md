@@ -27,7 +27,7 @@ content:
       tag: Selected
 
 design:
-  columns: '4'
+  columns: '2'
 
   view: 2
 
