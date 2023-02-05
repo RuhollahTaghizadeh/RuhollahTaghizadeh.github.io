@@ -2,7 +2,7 @@
 title: Transferability of Covariates to Predict SOC
 tags:
   - All
-date: "2023-02-01T00:00:00Z"
+date: "2023-01-25T00:00:00Z"
 external_link: ""
 image:
   caption: 
