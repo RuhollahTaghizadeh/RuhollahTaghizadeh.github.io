@@ -16,7 +16,7 @@ social:
   link: https://twitter.com/RuhollahTaghiz
 - icon: google-scholar
   icon_pack: ai
-  link: [https://scholar.google.de/citations?hl=en&user=5WvY3u4AAAAJ&view_op=list_works](https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en&oi=ao)
+  link: https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en&oi=ao
 - icon: researchgate
   icon_pack: fab
   link: https://researchgate.net/profile/Ruhollah-Taghizadeh-2
