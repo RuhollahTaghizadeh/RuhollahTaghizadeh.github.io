@@ -2,8 +2,8 @@
 title: "Ruhollah Taghizadeh"
 organizations:
 - name: University of Tübingen 
-  url: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/
-role: Postdoc Researcher
+  url: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/people-main-pages/alumni/dr-ruhollah-taghizadeh/
+role: Senior Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -16,7 +16,7 @@ social:
   link: https://twitter.com/RuhollahTaghiz
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
   link: https://researchgate.net/profile/Ruhollah-Taghizadeh-2
@@ -28,12 +28,12 @@ social:
   link: https://github.com/RuhollahTaghizadeh
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/ruhollah-taghizadeh-53a0a766/
+  link: www.linkedin.com/in/ruhollahtaghizadeh
 - icon: cv
   icon_pack: ai
   link: cv/cv_website.pdf
 superuser: yes
-bio: My research interests include soil mapping, data science, and machine learning 
+bio: My research interests include digital soil mapping, data science, and machine learning 
 greeting: alzahawi::shilaan()
 highlight_name: no
 ---
