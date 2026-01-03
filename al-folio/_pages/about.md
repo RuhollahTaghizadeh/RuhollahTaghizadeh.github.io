@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>Germany</p>
-    <p><a href="mailto:ruhollah.taghizadeh-mehrjardi@mnf.uni-tuebingen.de">ruhollah.taghizadeh-mehrjardi@mnf.uni-tuebingen.de</a></p>
+    <p><a href="mailto:rtaghi42@gmail.com">rtaghi42@gmail.com</a></p>
     <p><a href="https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> ·
        <a href="https://orcid.org/0000-0002-4620-6624" target="_blank" rel="noopener">ORCID</a> ·
        <a href="https://github.com/RuhollahTaghizadeh" target="_blank" rel="noopener">GitHub</a> ·
