@@ -1,8 +1,8 @@
 ---
 widget: portfolio
-active: true
+active: false
 
-headless: true
+headless: false
 
 weight: 95
 

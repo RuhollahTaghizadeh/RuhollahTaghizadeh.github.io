@@ -1,6 +1,6 @@
 ---
 widget: experience
-active: true
+active: false
 
 headless: true
 
