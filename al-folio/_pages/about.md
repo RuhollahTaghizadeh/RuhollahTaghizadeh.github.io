@@ -2,33 +2,38 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: "Data Scientist · Pedometrics · Digital Soil Mapping · Machine Learning"
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Germany</p>
+    <p><a href="mailto:ruhollah.taghizadeh-mehrjardi@mnf.uni-tuebingen.de">ruhollah.taghizadeh-mehrjardi@mnf.uni-tuebingen.de</a></p>
+    <p><a href="https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> ·
+       <a href="https://orcid.org/0000-0002-4620-6624" target="_blank" rel="noopener">ORCID</a> ·
+       <a href="https://github.com/RuhollahTaghizadeh" target="_blank" rel="noopener">GitHub</a> ·
+       <a href="https://www.linkedin.com/in/ruhollahtaghizadeh" target="_blank" rel="noopener">LinkedIn</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: false
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My work **bridges** **pedometrics** and **applied data science** for environmental and agronomic systems. I develop **spatial and predictive models** that combine soil–landscape understanding with **machine learning**, geoinformatics, and **remote/proximal sensing** (including soil spectroscopy and satellite-derived covariates). My focus is on building **robust, interpretable, and uncertainty-aware** workflows—from data integration and feature engineering to model validation and deployment—aimed at predicting soil and ecosystem variables such as **soil properties**, **water-related indicators**, **vegetation signals**, and **climate-related factors**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research interests
+- Digital Soil Mapping and soil–landscape modelling  
+- GIS, remote sensing, and proximal soil sensing (spectroscopy)  
+- Spatial machine learning, uncertainty quantification, and rigorous validation  
+- Soil health, climate impacts, and precision agriculture applications  
