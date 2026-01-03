@@ -12,13 +12,21 @@ subtitle:
 date_format: Jan 2006
 
 experience:
+  - title: Data Scientist
+    company: Yara International
+    company_url: 'https://www.yara.com/'
+    company_logo: org-y
+    location: Dülmen, Germany
+    date_start: '2023-11-01'
+    date_end: ''
+    
   - title: Postdoc in Pedometrics
     company: Tübingen University
     company_url: 'https://uni-tuebingen.de/'
     company_logo: org-gc
     location: Tübingen, Germany
     date_start: '2017-07-01'
-    date_end: ''
+    date_end: '2023-10-30'
 
   - title: Assistant Professor in Soil Science
     company: Ardakan University
@@ -44,7 +52,7 @@ experience:
     date_start: '2012-01-01'
     date_end: '2012-07-01'
 
-  - title: PhD Student in Soil Science
+  - title: PhD in Soil Science
     company: University of Tehran
     company_url: 'https://ut.ac.ir/en'
     company_logo: org-xxx

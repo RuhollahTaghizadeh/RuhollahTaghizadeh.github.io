@@ -1,13 +1,12 @@
 ---
 title: "Ruhollah Taghizadeh"
 organizations:
-- name: University of Tübingen 
-  url: https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/geowissenschaften/arbeitsgruppen/geographie/forschungsbereich/bodenkunde-und-geomorphologie/work-group/people-main-pages/alumni/dr-ruhollah-taghizadeh/
-role: Senior Researcher
+- name: Soil Scientist (PhD) 
+  role: Senior Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ruhollah.taghizadeh-mehrjardi@mnf.uni-tuebingen.de
+  link: mailto:rtaghi42@gmail.com
 - display:
     header: yes
   icon: twitter
@@ -17,12 +16,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=IDHEr08AAAAJ&hl=en
-- icon: researchgate
-  icon_pack: fab
-  link: https://researchgate.net/profile/Ruhollah-Taghizadeh-2
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-4620-6624
 - icon: github
   icon_pack: fab
   link: https://github.com/RuhollahTaghizadeh
@@ -41,14 +34,14 @@ highlight_name: no
 body {
 text-align: justify}
 </style>
-My primary research interest is in [**Pedometrics**](http://pedometrics.org/) with a particular focus on remote/proximal soil sensing and [**Digital Soil Mapping**](https://en.wikipedia.org/wiki/Digital_soil_mapping). The core of the pedometric approach integrates soil system knowledge with applied statistics, [**Machine Learning**](https://en.wikipedia.org/wiki/Machine_learning), geoinformatics, and [**Remote Sensing**](https://en.wikipedia.org/wiki/Remote_sensing). I apply the most recent technology in spatial data analysis to model and predict various environmental metrics such as soils, water, vegetation, and climate. 
+My work bridges **pedometrics** and **applied data science** for environmental and agronomic systems. I develop **spatial and predictive models** that combine soil–landscape understanding with **machine learning**, geoinformatics, and **remote/proximal sensing**. My focus is on building robust, interpretable, and uncertainty-aware workflows—from data integration and feature engineering to model validation and deployment—aimed at predicting soil and ecosystem variables such as **soil properties**, **water-related indicators**, **vegetation signals**, and **climate-related factors**.
 
-I'm interested in:
+### Research interests
+- Digital Soil Mapping and soil–landscape modelling  
+- GIS, remote sensing, and proximal soil sensing (spectroscopy)  
+- Spatial machine learning, uncertainty quantification, and rigorous validation  
+- Soil health, climate impacts, and precision agriculture applications  
 
-* Pedology and Digital Soil Mapping
-* GIS, Remote and Proximal Sensing 
-* Spatial Data Analysis and Machine Learning
-* Soil Health, Climate Change and Precision Agriculture 
 
 <center> 
 
