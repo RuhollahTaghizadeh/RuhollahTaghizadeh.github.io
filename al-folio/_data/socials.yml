@@ -15,7 +15,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: rtaghi42@gmail.com
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-# github_username: # your GitHub user name
+github_username: RuhollahTaghizadeh
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -26,15 +26,15 @@ email: rtaghi42@gmail.com
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: ruhollahtaghizadeh
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0000-0002-4620-6624
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
-# publons_id: # your ID on Publons
+publons_id: H-3682-2013
 # quora_username: # your Quora username
-research_gate_profile: https://www.researchgate.net/profile/Ruhollah-Taghizadeh-2
+research_gate_profile: Ruhollah-Taghizadeh-2
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: IDHEr08AAAAJ&hl # your Google Scholar ID
 # scopus_id: # your profile on Scopus
@@ -50,7 +50,7 @@ scholar_userid: IDHEr08AAAAJ&hl # your Google Scholar ID
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
 # x_username: # your X handle
-youtube_id: https://www.youtube.com/@RuhollahTaghizadeh
+youtube_id: @RuhollahTaghizadeh
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
