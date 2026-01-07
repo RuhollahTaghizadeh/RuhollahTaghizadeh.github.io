@@ -12,7 +12,7 @@ profile:
     <p>Tübingen, Germany</p>
     <p><a href="mailto:rtaghi42@gmail.com">rtaghi42@gmail.com</a></p>
 
-selected_papers: false
+selected_papers: true
 social: true
 
 announcements:
