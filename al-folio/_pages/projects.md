@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Digital Soil Mapping, Proximal and Remote Sensing for Soil, Land Degradation and Soil Quality Assessment]
+display_categories: [Digital Soil Mapping, Soil Sensing & Remote Observation, Land Degradation and Soil Quality Assessment, Environmental Applications]
 horizontal: false
 ---
 
