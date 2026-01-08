@@ -2,7 +2,7 @@
 layout: page
 title: Soil Moisture Mapping
 description: Multi-depth VWC maps for precision irrigation
-img: assets/img/12.jpg
+img: assets/img/20.png
 importance: 1
 category: Digital Soil Mapping
 related_publications: true
