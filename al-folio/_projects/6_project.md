@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pedodiversityin Botswana
+title: Pedodiversity
 description: Spatial scale flips the pedodiversity–elevation relationship
 img: assets/img/25.png
 importance: 4
