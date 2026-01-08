@@ -2,7 +2,6 @@
 title: "Soil Genesis and Classification"
 category: "Courses"
 importance: 4
-img: assets/img/103.jpg
 description: "Master’s-level course on pedogenesis and modern soil classification systems (WRB and USDA), combining theory with field-based soil profile description and classification."
 ---
 

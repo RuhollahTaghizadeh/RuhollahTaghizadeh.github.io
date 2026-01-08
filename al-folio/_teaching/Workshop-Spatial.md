@@ -2,7 +2,6 @@
 title: "Workshop: Spatial Data Analysis in R"
 category: "Workshops"
 importance: 2
-img: assets/img/105.jpg
 description: "Hands-on workshop on spatial data analysis in R, covering R fundamentals, tidy workflows, visualization, core spatial data handling, and an applied introduction to machine learning."
 ---
 

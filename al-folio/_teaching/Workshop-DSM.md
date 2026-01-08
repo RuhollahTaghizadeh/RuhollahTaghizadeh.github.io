@@ -2,7 +2,6 @@
 title: "Workshop: Digital Soil Mapping with R"
 category: "Workshops"
 importance: 1
-img: assets/img/106.jpg
 description: "Hands-on workshop covering end-to-end Digital Soil Mapping (DSM) workflows in R, from data preprocessing and covariate derivation to machine learning, geostatistics, and map production."
 ---
 

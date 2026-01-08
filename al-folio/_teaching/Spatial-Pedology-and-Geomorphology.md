@@ -2,7 +2,6 @@
 title: "Spatial Pedology and Geomorphology"
 category: "Courses"
 importance: 1
-img: assets/img/104.jpg
 description: "Master’s-level course introducing digital soil mapping workflows and machine-learning methods for spatial prediction of soil properties."
 ---
 
