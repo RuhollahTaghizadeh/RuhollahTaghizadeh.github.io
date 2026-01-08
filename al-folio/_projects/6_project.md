@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pedodiversity–Elevation Scaling in Botswana
-description: Spatial scale flips the pedodiversity–elevation relationship in semi-arid drylands
+title: Pedodiversityin Botswana
+description: Spatial scale flips the pedodiversity–elevation relationship
 img: assets/img/25.png
 importance: 4
 category: Digital Soil Mapping
