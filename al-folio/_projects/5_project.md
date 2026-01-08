@@ -1,80 +1,55 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Machine Learning in Archaeology
+description: Systematic Review
+img: assets/img/24.png
+importance: 4
+category: Environmental Applications
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Machine learning (ML) is rapidly reshaping archaeological research, but the field is scattered across many subdomains (remote sensing, artefact studies, predictive modelling, taphonomy), often using inconsistent data standards and evaluation practices.  
+This review consolidates the evidence base and highlights where ML is effective today—and where methodological gaps still limit reliability and interpretability.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The paper synthesizes **135 peer-reviewed studies (1997–2022)** and extracts structured information about **tasks, data sources, algorithms, validation strategies, and research trends**, providing a roadmap for more reproducible and transparent archaeological ML.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### What we did
+- Performed a **systematic literature review** of **135 journal articles** covering ML applications in archaeology (1997–2022).
+- Categorized studies by **problem type**, including:
+  - **automatic structure detection** (e.g., features in imagery/point clouds),
+  - **artefact classification** (shape, texture, typology),
+  - **archaeological predictive modelling** (site likelihood),
+  - **taphonomy / preservation assessment**,
+  - **architectural classification & reconstruction**.
+- Summarized algorithm usage patterns (e.g., **ANNs, ensembles**, and other supervised methods).
+- Synthesized reported **data modalities** (satellite/UAV imagery, LiDAR/photogrammetry, geophysics, lab/imaging data, tabular predictors).
+- Compiled common **validation practices** and recurring weaknesses (e.g., small sample sizes, limited external validation, class imbalance, interpretability gaps).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Key findings
+- Publications show a **strong rise after ~2019**, indicating a recent acceleration of ML adoption in archaeology.
+- **Supervised learning dominates** across applications, especially for detection and classification tasks.
+- Reported use is concentrated around **neural networks and ensemble learning**, reflecting their flexibility with high-dimensional data (imagery/3D).
+- Many studies rely on **limited geographic transfer testing**, meaning models may not generalize well across landscapes, sensors, or archaeological contexts.
+- The review emphasizes the need for **better benchmarking, uncertainty reporting, and explainability** to support trustworthy archaeological interpretation.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
+## Graphical abstract
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/24.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+Systematic review workflow and taxonomy of ML applications in archaeology: tasks → data types → algorithms → validation patterns → research roadmap.
+</div>
 
-{% endraw %}
+---
+
+## Why it matters
+This review helps the community move from “cool demos” toward **robust, reusable ML in archaeology** by:
+1) clarifying what tasks ML is most used for today,  
+2) identifying common methodological pitfalls (generalization + validation), and  
+3) motivating **transparent, explainable, and benchmarked** workflows for future studies.
+
+> Paper: *Machine Learning Applications in Archaeological Practices: A Review* (Journal of Computer Applications in Archaeology, 2025).

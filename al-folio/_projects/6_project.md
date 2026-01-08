@@ -1,80 +1,59 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Pedodiversity–Elevation Scaling in Botswana
+description: Spatial scale flips the pedodiversity–elevation relationship in semi-arid drylands
+img: assets/img/25.png
 importance: 4
-category: fun
+category: Digital Soil Mapping
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Pedodiversity (soil diversity) is shaped by soil-forming factors such as climate, vegetation, and relief—yet **its relationship with elevation is often reported inconsistently** (positive in some studies, negative in others). A major reason is **spatial scale**: changing spatial extent and resolution can fundamentally change the observed relationship.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In this study, we show that the **pedodiversity–elevation relationship in semi-arid Botswana is strongly scale-dependent**, even **changing sign** from negative (national) to positive (local).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### What we did
+- Compiled **~2060 soil class observations** across Botswana (AfSIS + BRIMP legacy data).
+- Mapped soil classes at **90 m** using **Random Forest** within a **SCORPAN** DSM framework.
+  - Model validation: **nested cross-validation**
+  - Accuracy: **OA = 56.2 ± 3.3%**, **Kappa = 39.7 ± 4.6%**
+- Converted the soil class map into a continuous **pedodiversity surface** using **Rao’s quadratic entropy (RaO’s Q)** with a moving window.
+- Assessed pedodiversity–elevation relationships across:
+  - **Spatial extents:** national (Botswana), **Central district**, **Southern district**
+  - **Spatial resolutions:** **90 m, 900 m, 9000 m, 90,000 m**
+- Modelled relationships with interpretable statistics:
+  - **GLM** (Gaussian)
+  - **GWR** (local structure/correlation)
+  - Verified patterns with **Spearman correlation**
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Key findings
+- **National scale:** pedodiversity vs elevation shows a **negative linear trend** (higher elevation → lower pedodiversity).
+- **Local scale (Southern district):** the relationship becomes **positive** (higher elevation → higher pedodiversity).
+- **Resolution matters a lot:** the strength of the relationship changes markedly with aggregation.
+  - Reported **R² ranges** (GLM) show major scale effects:
+    - National: **~0.0005–0.017**
+    - Central: **~0.007–0.015**
+    - Southern: **~0.061–0.65**
+- Coarser resolutions can **inflate apparent relationships** via spatial averaging and may produce **overly optimistic conclusions**, especially at small extents.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
+## Graphical abstract
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/25.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+Workflow: RF soil class mapping (90 m) → RaO’s Q pedodiversity → multi-scale aggregation (extent × resolution) → GLM/GWR to quantify scale-dependent pedodiversity–elevation relationships.
+</div>
 
-{% endraw %}
+---
+
+## Why it matters
+This paper shows that **scale is not a technical detail—it can change the scientific conclusion**. For dryland soil management and conservation, it implies:
+1) interpret pedodiversity–environment relationships **only at the scale they’re intended for**,  
+2) avoid transferring national-scale conclusions directly to local planning, and  
+3) choose resolutions that match the decision context (coarse grids can mislead).
+
+> Paper: *Spatial scale drives pedodiversity-elevation relationship in Botswana* (Geomatica, 2024). DOI: 10.1016/j.geomat.2024.100037

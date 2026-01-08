@@ -3,7 +3,7 @@ layout: page
 title: SOC from Sentinel-2 Time Series
 description: Temporal SWIR for accurate soil organic carbon mapping
 img: assets/img/23.png
-importance: 1
+importance: 4
 category: Soil Sensing & Remote Observation
 related_publications: true
 ---
