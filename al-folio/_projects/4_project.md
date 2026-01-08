@@ -1,80 +1,56 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: SOC from Sentinel-2 Time Series
+description: Temporal SWIR for accurate soil organic carbon mapping
+img: assets/img/23.png
+importance: 1
+category: Soil Sensing & Remote Observation
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Soil Organic Carbon (SOC) is a key indicator for soil fertility, food security, and climate mitigation, but **lab-based SOC measurements are slow, expensive, and hard to scale**.  
+Most remote-sensing approaches rely on **single-date imagery**, which often fails to capture SOC’s complex and condition-dependent spectral response—typically limiting accuracy.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This study introduces a **time-series feature engineering workflow** for SOC estimation using only **Sentinel-2 imagery**, centered on **Band 11 (SWIR, ~1610 nm)**—a spectral region sensitive to SOC-related absorption features.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### What we did
+- Collected **91 topsoil samples (0–10 cm)** in summer 2019 (Sanandaj, Iran) and analyzed SOC using **Walkley–Black**.
+- Built Sentinel-2 predictors exclusively from imagery:
+  - A **synthetic median composite** (summer 2019) of Sentinel-2 surface reflectance + spectral indices.
+  - A **B11 time series** (20 acquisitions during the sampling period).
+- Extracted high-level temporal features from the **B11 time series** using:
+  - **PCA** (first 5 principal components)
+  - **ICA** (independent components + kurtosis-based component selection)
+- Trained and compared four ML models (**RF, GBRT, XGBoost, LightGBM**) under four scenarios:
+  - **S#1:** single-time features only  
+  - **S#2:** S#1 + **Genetic Algorithm (GA)** feature selection  
+  - **S#3:** single-time + **B11 time-series PCA/ICA features**  
+  - **S#4:** S#3 + **GA feature selection** (best pipeline)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Key findings
+- Adding **time-series B11 PCA/ICA features** improved accuracy by about **+0.11 R²** (S#3 vs S#1).
+- Applying **GA feature selection** added about **+0.05 R²** (S#4 vs S#3).
+- Best performance was achieved with **XGBoost in S#4**: **R² = 0.891** (10-fold CV).
+- Permutation importance indicated **PCA-derived temporal features** were the most informative group, outperforming raw spectral bands and indices.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
+## Graphical abstract
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/23.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+Pipeline for SOC estimation using Sentinel-2 only: B11 time-series → PCA/ICA temporal features → GA feature selection → boosted ML models.
+</div>
 
-{% endraw %}
+---
+
+## Why it matters
+This work shows that **high-accuracy SOC mapping is possible using only multispectral Sentinel-2 data** by:
+1) targeting an SOC-sensitive SWIR band (**B11**),  
+2) exploiting the **temporal dimension** (time series instead of a single image), and  
+3) using **feature extraction + selection** to produce compact, powerful predictors.
+
+> Paper: *Estimating soil organic carbon using time series Band 11 (SWIR) of multispectral Sentinel-2 satellite images and machine learning algorithms* (Remote Sensing Applications: Society and Environment, 2025).
