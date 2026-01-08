@@ -23,30 +23,16 @@ In this project, we used **Random Forests** with **UAV reflectance**, **terrain 
 
 ---
 
-## Example maps / figures (replace images with yours)
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/vwc_topsoil.jpg" title="0–30 cm VWC map" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/vwc_mid.jpg" title="30–60 cm VWC map" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/vwc_deep.jpg" title="90–120 cm VWC map" class="img-fluid rounded z-depth-1" %}
+## Graphical abstract
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/20.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-Multi-depth VWC predictions on a 5 m grid. (Replace with your final maps from the manuscript or slides.)
+Graphical abstract summarizing the workflow and key results.
 </div>
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/covariates.jpg" title="Example covariates (LAI, yield, terrain)" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-Example predictor layers: UAV vegetation metrics, yield monitor data, and terrain derivatives used in Random Forest models.
-</div>
 
 ---
 
