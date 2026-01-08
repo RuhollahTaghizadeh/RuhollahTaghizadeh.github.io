@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: List not exhaustive, see https://scholar.google.com/citations?user=IDHEr08AAAAJ).
+description: "<span style='color:#c00000;'>List not exhaustive — see <a href='https://scholar.google.com/citations?user=IDHEr08AAAAJ' target='_blank' rel='noopener'>Google Scholar</a>.</span>"
 nav: true
 nav_order: 2
 ---
