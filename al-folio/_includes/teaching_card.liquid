@@ -1,0 +1,32 @@
+<div class="col mb-4">
+  <div class="card h-100 shadow-sm">
+    <div class="card-body">
+      <h5 class="card-title mb-2">
+        <a href="{{ include.item.url | relative_url }}">{{ include.item.title }}</a>
+      </h5>
+
+      {% if include.item.description %}
+        <p class="card-text">{{ include.item.description }}</p>
+      {% endif %}
+
+      <ul class="list-unstyled small mb-0">
+        {% if include.item.institution %}<li><strong>Institution:</strong> {{ include.item.institution }}</li>{% endif %}
+        {% if include.item.department %}<li><strong>Department:</strong> {{ include.item.department }}</li>{% endif %}
+        {% if include.item.level %}<li><strong>Level:</strong> {{ include.item.level }}</li>{% endif %}
+        {% if include.item.term %}<li><strong>Term:</strong> {{ include.item.term }}</li>{% endif %}
+        {% if include.item.role %}<li><strong>Role:</strong> {{ include.item.role }}</li>{% endif %}
+        {% if include.item.tools %}<li><strong>Tools:</strong> {{ include.item.tools }}</li>{% endif %}
+      </ul>
+    </div>
+
+    {% if include.item.links %}
+      <div class="card-footer bg-transparent">
+        {% for l in include.item.links %}
+          <a class="btn btn-sm btn-outline-primary me-1 mb-1" href="{{ l.url }}" target="_blank" rel="noopener">
+            {{ l.label }}
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>

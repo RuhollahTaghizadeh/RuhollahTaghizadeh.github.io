@@ -1,4 +1,4 @@
-<div class="projects">
+<div class="teaching">
   {% assign categories = "Courses,Workshops" | split: "," %}
 
   {% for category in categories %}
@@ -8,9 +8,9 @@
 
     {% assign items = site.teaching | where: "category", category | sort: "importance" %}
 
-    <div class="row row-cols-1 row-cols-md-3">
+    <div class="row row-cols-1 row-cols-md-2">
       {% for item in items %}
-        {% include projects.liquid project=item %}
+        {% include teaching_card.liquid item=item %}
       {% endfor %}
     </div>
   {% endfor %}
