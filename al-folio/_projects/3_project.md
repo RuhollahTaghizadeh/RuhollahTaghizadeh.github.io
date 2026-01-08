@@ -1,81 +1,41 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Erosion-SAM
+description: Segment Anything Model for water-erosion segmentation
+img: assets/img/22.png
 importance: 3
-category: work
+category: Land Degradation and Soil Quality Assessment
+related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Soil erosion by water removes fertile topsoil and causes major economic losses, but **training data for erosion mapping is scarce** and manual interpretation of orthophotos is slow.  
+In this project, we introduce **Erosion-SAM**: a **fine-tuned Segment Anything Model (SAM)** for **automatic pixel-level segmentation** of erosion and deposition features in **20 cm** aerial orthophotos.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### What we did
+- Built a labeled dataset of **405 agricultural fields** (grassland, vegetated cropland, bare cropland) with expert **manual erosion/deposition masks**.
+- Fine-tuned **SAM (ViT-B)** by adapting the **mask decoder** (transfer learning) to erosion patterns.
+- Compared two preprocessing strategies (**resizing vs. cropping**) and tested an enhanced workflow that uses **minimal point prompts** at inference.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+### Key findings
+- All fine-tuned models **outperformed the original SAM**, which tended to **overestimate erosion** (many false positives).
+- The best results came from **resizing + user point prompts**, especially in **grassland** *(recall 0.90, precision 0.82, Dice 0.86, IoU 0.75)*.
+- Predicted field-scale erosion severity ratios matched ground truth strongly, with **R² up to 0.93** for the prompt-enhanced resizing workflow.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+---
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
+## Graphical abstract
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-10 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/22.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
-```
+<div class="caption">
+Erosion-SAM workflow: fine-tune SAM for pixel-level erosion/deposition segmentation from high-resolution orthophotos.
+</div>
 
-{% endraw %}
+---
+
+## Why it matters
+Erosion-SAM enables **scalable, consistent erosion monitoring** at high spatial and temporal resolution, producing training data for ML-based erosion models and supporting practical applications like **risk assessment, land management, and insurance solutions**.
+
+> Paper: *Erosion-SAM: Semantic segmentation of soil erosion by water* (Catena, 2025).

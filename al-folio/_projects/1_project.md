@@ -16,7 +16,7 @@ In this project, we used **Random Forests** with **UAV reflectance**, **terrain 
 - Produced **multi-depth VWC maps** for multiple seasons.
 - Quantified uncertainty via cross-validation and a **jack-knife** experiment to find the “good enough” sample size.
 
-### Key findings (from the paper)
+### Key findings 
 - RF predicted VWC well (typically ~**1–3% RMSE**), with performance varying by **depth and season**.
 - **Terrain + scaling factors** were usually more informative than crop reflectance, except after unusually hot periods.
 - Sampling could often be reduced to about **50–60 points** (from >100) while keeping errors around **2–3%**.

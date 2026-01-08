@@ -16,7 +16,7 @@ In this project, we mapped SOC across **Germany (250 m)** using **LUCAS** sample
 - Used **HLS (Landsat–Sentinel)** imagery plus **soil, climate, vegetation, and topography** predictors from GEE.
 - Learned feature importance via an explainer that measures prediction-error change when inputs are masked.
 
-### Key findings (from the paper)
+### Key findings 
 - **Tree-based models** mainly relied on **topography** (e.g., elevation and terrain derivatives).
 - **Neural networks and linear models** relied more on **soil chemistry**, especially **pH** (and related soil-property layers).
 - Interpretations are **model-dependent**, so explainability needs an expert-guided workflow.
