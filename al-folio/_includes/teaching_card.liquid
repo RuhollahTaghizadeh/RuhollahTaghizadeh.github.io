@@ -1,5 +1,12 @@
 <div class="col mb-4">
   <div class="card h-100 shadow-sm">
+
+    {% if include.item.img %}
+      <a href="{{ include.item.url | relative_url }}">
+        <img src="{{ include.item.img | relative_url }}" alt="{{ include.item.title }}" class="card-img-top">
+      </a>
+    {% endif %}
+
     <div class="card-body">
       <h5 class="card-title mb-2">
         <a href="{{ include.item.url | relative_url }}">{{ include.item.title }}</a>

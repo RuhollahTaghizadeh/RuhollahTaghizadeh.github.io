@@ -2,7 +2,7 @@
 title: "Fundamentals of Soil Science"
 category: "Courses"
 importance: 3
-img: assets/img/101.jpg
+img: /assets/img/101.jpg
 description: "Bachelor’s-level introduction to soil science, covering core concepts in soil physics, chemistry, biology, classification, and laboratory measurement of key soil properties."
 ---
 
