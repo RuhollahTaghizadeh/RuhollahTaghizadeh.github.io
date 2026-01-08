@@ -2,6 +2,7 @@
 title: "Statistics"
 category: "Courses"
 importance: 2
+img: assets/img/102.png
 description: "Bachelor’s-level introduction to statistical concepts and methods, combining theory with hands-on implementation in R for geoscience applications."
 ---
 
