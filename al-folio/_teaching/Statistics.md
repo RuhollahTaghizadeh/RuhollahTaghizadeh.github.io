@@ -59,4 +59,4 @@ Students work with example datasets (often from geoscience contexts) to:
 - Common packages (depending on course setup): `ggplot2`, `dplyr`, `stats`, `car`, `lme4` (intro if needed)
 
 ---
-If you are a student in this course and need access to scripts, datasets, or assignment instructions, please contact me or check the course learning platform (if applicable).
+If you are a student in this course and need access to scripts, datasets, or assignment instructions, please contact me.
