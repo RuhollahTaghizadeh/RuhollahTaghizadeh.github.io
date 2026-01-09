@@ -4,7 +4,7 @@ title: Precision Irrigation
 description: Multi-depth soil water content maps for precision irrigation
 img: assets/img/soilmoisture_kerry.png
 importance: 1
-category: Soil Sensing & Remote Observation
+category: Digital Soil Mapping
 related_publications: true
 ---
 
