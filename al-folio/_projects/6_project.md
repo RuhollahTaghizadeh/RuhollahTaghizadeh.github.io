@@ -4,7 +4,7 @@ title: Pedodiversity
 description: Spatial scale flips the pedodiversity–elevation relationship
 img: assets/img/25.png
 importance: 4
-category: Digital Soil Mapping
+category: Land Degradation and Soil Quality Assessment
 related_publications: true
 ---
 
