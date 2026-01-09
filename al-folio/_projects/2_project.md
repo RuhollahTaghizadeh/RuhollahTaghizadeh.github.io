@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Explainable SOC Mapping
+title: Explainable AI
 description: Learning-based explanations for SOC models
-img: assets/img/21.png
+img: assets/img/explainable_ai.png
 importance: 2
 category: Digital Soil Mapping
 related_publications: true
@@ -26,7 +26,7 @@ In this project, we mapped SOC across **Germany (250 m)** using **LUCAS** sample
 ## Graphical abstract
 <div class="row justify-content-sm-center">
   <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/21.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/explainable_ai.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
