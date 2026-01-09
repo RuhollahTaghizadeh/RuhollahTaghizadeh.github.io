@@ -4,7 +4,7 @@ title: SOC Mapping in Germany
 description: Ensemble ML to map MAOM and POM
 img: assets/img/26.png
 importance: 4
-category: Digital Soil Mapping
+category: Land Degradation and Soil Quality Assessment
 related_publications: true
 ---
 
