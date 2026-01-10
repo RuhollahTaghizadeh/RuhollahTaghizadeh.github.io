@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spatial Prediction of Soils
-description: Maps soil properties from samples using covariates and spatial validation, producing high-resolution predictions with confidence.
+description: Maps soil properties from samples using covariates and spatial validation, producing high-resolution predictions.
 img: assets/img/spatial_soil.png
 importance: 1
 category: Digital Soil Mapping
@@ -24,5 +24,6 @@ Graphical abstract summarizing the workflow and key results.
 
 
 ---
+
 
 
