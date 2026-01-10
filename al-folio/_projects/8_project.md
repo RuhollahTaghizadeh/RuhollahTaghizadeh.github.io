@@ -4,7 +4,7 @@ title: Land Suitability Mapping
 description: Integrating TOPSIS and Random Forest
 img: assets/img/27.png
 importance: 4
-category: Environmental Applications
+category: 
 related_publications: true
 ---
 
