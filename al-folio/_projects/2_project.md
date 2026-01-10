@@ -4,7 +4,7 @@ title: Explainable AI
 description: Learning-based explanations for SOC models
 img: assets/img/explainable_ai.png
 importance: 2
-category: Digital Soil Mapping
+category: 
 related_publications: true
 ---
 
