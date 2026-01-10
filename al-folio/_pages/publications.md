@@ -12,7 +12,7 @@ nav_order: 2
 <p style="margin: 0 0 12px 0;">
   <img src="{{ '/assets/img/PedometricsResearch.png' | relative_url }}"
        alt="PedometricsResearch"
-       style="width:420px; max-width:100%; height:auto; border-radius:8px;">
+       style="width:8500px; max-width:100%; height:auto; border-radius:8px;">
 </p>
 
 <div class="publications">
