@@ -4,7 +4,7 @@ title: Machine Learning in Archaeology
 description: Systematic Review
 img: assets/img/24.png
 importance: 4
-category: Environmental Applications
+category: 
 related_publications: true
 ---
 
