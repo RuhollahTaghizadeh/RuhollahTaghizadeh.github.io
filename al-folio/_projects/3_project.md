@@ -4,7 +4,7 @@ title: Erosion-SAM
 description: Segment Anything Model for water-erosion segmentation
 img: assets/img/22.png
 importance: 3
-category: Land Degradation and Soil Quality Assessment
+category: 
 related_publications: true
 ---
 
