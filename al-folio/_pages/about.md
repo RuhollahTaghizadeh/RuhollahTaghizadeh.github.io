@@ -34,9 +34,5 @@ My work **bridges** **pedometrics** and **applied data science** for environment
 - Spatial machine learning, uncertainty quantification, and rigorous validation  
 - Soil health, climate impacts, and precision agriculture applications
 
-## Research areas
 
-<div style="text-align:center; margin: 1.5rem 0;">
-  <img src="{{ '/assets/img/PedometricsResearch.png' | relative_url }}" alt="Research word cloud" style="max-width: 900px; width: 100%; height: auto;">
-</div>
 
