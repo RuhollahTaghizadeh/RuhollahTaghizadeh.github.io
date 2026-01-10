@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transferability & Extrapolation in Spatial Prediction
+title: Transferability & Extrapolation
 description: Tests model generalization across regions and scales, mapping where predictions extrapolate and where uncertainty increases.
 img: assets/img/extra_polation.png
 importance: 1
@@ -8,7 +8,17 @@ category: Digital Soil Mapping
 related_publications: true
 ---
 
-This project focuses on whether spatial prediction models remain reliable when applied beyond their training conditions—across new regions, different scales, or novel covariate combinations. In soil mapping, samples are often clustered and landscapes vary widely, so models can look accurate under random splits yet fail in true extrapolation settings. We address this by using spatially robust evaluation designs (blocked/clustered cross-validation, region holdouts) and by running experiments that vary sampling density, sample size, and spatial extent to mimic real deployment. A core component is diagnosing the “applicability domain”: identifying where target locations fall within the covariate space supported by training data versus where they are out-of-distribution. These diagnostics are paired with strategies to improve generalization, such as careful covariate selection, simplifying overly complex models, using ensembles to stabilize predictions, and leveraging semi-supervised ideas when appropriate. Outputs include prediction maps plus extrapolation-risk or similarity layers that communicate where predictions are supported and where uncertainty should be higher. This helps users prioritize new sampling, interpret maps cautiously in novel areas, and design workflows that are more dependable for operational mapping.
+This project focuses on whether spatial prediction models remain reliable when applied beyond their training conditions—across new regions, scales, and covariate combinations. We use spatially robust validation designs (blocked CV, region holdouts) and diagnose where models extrapolate outside the training “applicability domain.” Outputs include prediction maps plus extrapolation-risk or similarity layers that show where results are well supported and where uncertainty should be higher. The aim is more trustworthy soil mapping under real deployment scenarios.
+
+**Main focus**
+- Improve generalization of soil models across space, scale, and data shifts.
+- Detect and communicate extrapolation risk and applicability domain limits.
+- Support safer use of maps in unsampled or novel environments.
+
+**Objectives**
+1. Test model transfer with spatial validation and region-based holdouts.
+2. Map covariate coverage and identify out-of-distribution prediction zones.
+3. Deliver prediction + extrapolation-risk layers to guide interpretation/sampling.
 
 ------------------------------------------------------------------------
 
@@ -16,9 +26,7 @@ This project focuses on whether spatial prediction models remain reliable when a
 
 :::: {.row .justify-content-sm-center}
 ::: {.col-sm-10 .mt-3 .mt-md-0}
-```         
 {% include figure.liquid loading="eager" path="assets/img/extra_polation.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
-```
 :::
 ::::
 
@@ -27,4 +35,3 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
-

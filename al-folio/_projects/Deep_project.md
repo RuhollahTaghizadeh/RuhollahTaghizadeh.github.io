@@ -1,27 +1,37 @@
 ---
 layout: page
-title: Deep Learning for Spatial Prediction
-description: Uses deep models to learn spatial patterns from gridded covariates, improving soil predictions.
+title: Deep Learning for Soil Mapping
+description: Uses CNN/deep models to learn spatial patterns from gridded covariates, improving soil predictions with confidence layers.
 img: assets/img/deep_learning.png
-importance: 2
+importance: 1
 category: Digital Soil Mapping
 related_publications: true
 ---
 
-This project investigates deep learning—particularly convolutional neural networks (CNNs)—as a next-step approach for digital soil mapping when covariates are available as gridded layers. Soils exhibit spatial structure shaped by geomorphology, hydrology, climate, and management, and these influences appear as patterns in stacked terrain and remote-sensing layers. CNNs are designed to learn spatial features (textures, gradients, multi-scale motifs) directly from such inputs, reducing reliance on hand-crafted feature engineering and enabling models to use neighborhood context around each location. The workflow links soil observations to covariate “image stacks” (e.g., DEM derivatives and satellite-derived bands/indices), trains deep models with regularization to avoid overfitting, and evaluates generalization with spatially structured validation so results reflect real mapping scenarios. Beyond performance, the project emphasizes model understanding through practical explainability tools (feature attributions, saliency-style summaries) and reliability through confidence/uncertainty indicators where feasible. The outputs are high-resolution soil property maps (or class probability maps) that can better capture complex spatial patterns, supporting applications such as soil carbon monitoring, salinity assessment, and precision land management.
----
+This project applies deep learning (especially CNNs) to spatial prediction of soil properties from stacked gridded covariates such as terrain derivatives and remote-sensing layers. CNNs learn multiscale spatial patterns and neighborhood context directly from these layers, helping capture complex soil–landscape relationships that may be missed by hand-crafted features. Models are trained with regularization and evaluated with spatially structured validation to ensure realistic generalization to new areas. Deliverables include high-resolution soil prediction maps and, where feasible, confidence/uncertainty information to communicate reliability.
+
+**Main focus**
+- Learn spatial patterns from gridded covariates using CNN-based models.
+- Improve mapping performance for complex, nonlinear soil relationships.
+- Provide reliable outputs through spatial validation and confidence layers.
+
+**Objectives**
+1. Build covariate “image stacks” that preserve spatial context for deep learning.
+2. Train CNN/deep models with spatial validation to test real-world generalization.
+3. Produce soil maps (and confidence layers) that support applied soil decisions.
+
+------------------------------------------------------------------------
 
 ## Graphical abstract
-<div class="row justify-content-sm-center">
-  <div class="col-sm-10 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/deep_learning.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
+
+:::: {.row .justify-content-sm-center}
+::: {.col-sm-10 .mt-3 .mt-md-0}
+{% include figure.liquid loading="eager" path="assets/img/deep_learning.png" title="Graphical abstract" class="img-fluid rounded z-depth-1" %}
+:::
+::::
+
+::: caption
 Graphical abstract summarizing the workflow and key results.
-</div>
+:::
 
-
----
-
-
+------------------------------------------------------------------------
