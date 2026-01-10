@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Digital Soil Mapping, Soil Sensing & Remote Observation, Land Degradation and Soil Quality Assessment, Environmental Applications]
+display_categories: [Digital Soil Mapping, Soil Sensing & Remote Observation, Land Degradation & Soil Quality, Environmental Applications]
 horizontal: false
 ---
 
