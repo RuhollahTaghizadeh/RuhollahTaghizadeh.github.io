@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Materials for courses and workshops I taught.
 nav: true
-nav_order: 6
+nav_order: 5
 display_categories: [Courses, Workshops]
 horizontal: false
 ---
