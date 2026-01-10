@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Deep Learning for Spatial Prediction
-description: Uses CNN/deep models to learn spatial patterns from gridded covariates, improving soil predictions with confidence layers.
-
+description: Uses deep models to learn spatial patterns from gridded covariates, improving soil predictions.
 img: assets/img/deep_learning.png
 importance: 2
 category: Digital Soil Mapping
@@ -24,4 +23,5 @@ Graphical abstract summarizing the workflow and key results.
 
 
 ---
+
 
