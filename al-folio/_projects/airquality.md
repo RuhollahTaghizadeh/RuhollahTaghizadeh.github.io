@@ -43,16 +43,36 @@ Graphical abstract summarizing the workflow and key results.
 
 ## Papers (selected)
 
-1. **Seasonal Drivers of Dust Pollution Using Data Mining and Game Theory** — *Ecological Indicators, 2021*  
-   [DOI](https://doi.org/10.1016/j.ecolind.2021.108287)  
-   {% include figure.liquid loading="lazy" path="assets/img/p1.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+### Paper 1 — **Seasonal Drivers of Dust Pollution Using Data Mining and Game Theory** — *Ecological Indicators, 2021*
+[DOI](https://doi.org/10.1016/j.ecolind.2021.108287)
 
-2. **Assessing ANFIS Dust Predictions: Accuracy, Uncertainty, and Interpretability** — *Environmental Science and Pollution Research, 2021*  
-   [DOI](https://doi.org/10.1007/s11356-020-10957-z) · [Code](https://github.com/yourrepo)  
-   {% include figure.liquid loading="lazy" path="assets/img/p2.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+<br>
 
-3. **Long-Term Air Pollution Effects on Mortality and Morbidity** — *Atmospheric Pollution Research, 2021*  
-   [DOI](https://doi.org/10.1016/j.apr.2020.10.007)  
-   {% include figure.liquid loading="lazy" path="assets/img/p3.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="lazy" path="assets/img/p1.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Assessing ANFIS Dust Predictions: Accuracy, Uncertainty, and Interpretability** — *Environmental Science and Pollution Research, 2021*
+[DOI](https://doi.org/10.1007/s11356-020-10957-z) · [Code](https://github.com/yourrepo)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p2.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Long-Term Air Pollution Effects on Mortality and Morbidity** — *Atmospheric Pollution Research, 2021*
+[DOI](https://doi.org/10.1016/j.apr.2020.10.007)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p3.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
 
 ------------------------------------------------------------------------
