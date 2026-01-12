@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ensemble Learning
+title: Stacking
 description: Combines multiple ML models (stacking/averaging) to reduce errors and improve stability of soil maps and uncertainty.
 img: assets/img/ensemble_dsm.png
 importance: 1

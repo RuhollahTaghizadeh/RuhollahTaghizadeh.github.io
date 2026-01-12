@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Transferability & Extrapolation
+title: Extrapolation
 description: Tests model generalization across regions and scales, mapping where predictions extrapolate and where uncertainty increases.
 img: assets/img/extra_polation.png
 importance: 1
@@ -33,5 +33,44 @@ This project focuses on whether spatial prediction models remain reliable when a
 ::: caption
 Graphical abstract summarizing the workflow and key results.
 :::
+
+------------------------------------------------------------------------
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Covariate Transferability for Cropland SOC Prediction**
+[DOI](https://doi.org/10.3390/rs15040876)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p13.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Model Transferability Using Sentinel and Terrain Covariates**
+[DOI](https://doi.org/10.3390/rs14235909)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p14.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Semi-Supervised Learning for Spatial Extrapolation**
+[DOI](https://doi.org/10.1016/j.geoderma.2022.116094)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p15.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
 
 ------------------------------------------------------------------------
