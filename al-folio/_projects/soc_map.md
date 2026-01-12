@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soil Organic Carbon Mapping & Stocks
+title: SOC
 description: Maps SOC and carbon stocks with environmental drivers, supporting monitoring, reporting, and targeted climate-smart management.
 img: assets/img/soc_map.png
 importance: 1
@@ -35,3 +35,48 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Multi-Depth SOC Mapping**
+[DOI](https://doi.org/10.1016/j.geoderma.2015.12.003)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p35.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **SOC Mapping Using Machine Learning**
+[DOI](https://doi.org/10.3390/rs12142234)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p36.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **3D Soil Organic Matter Prediction**
+[DOI](https://doi.org/10.1080/17583004.2017.1330593)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p37.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
+

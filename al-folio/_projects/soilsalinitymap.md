@@ -4,7 +4,7 @@ title: ML Mapping of Soil Salinity for Land Degradation
 description: Maps salinity risk and trends using ML with terrain, climate, land use, and remote sensing to guide mitigation.
 img: assets/img/salinity_map.png
 importance: 1
-category: Land Degradation & Soil Quality
+category: 
 related_publications: true
 ---
 

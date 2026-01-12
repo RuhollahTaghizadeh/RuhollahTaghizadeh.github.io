@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soil Moisture Mapping for Precision Irrigation
+title: Soil Moisture
 description: Estimates soil moisture/VWC using UAV and satellite features, delivering field-scale maps for variable-rate irrigation.
 img: assets/img/moisture_map.png
 importance: 1
@@ -35,3 +35,46 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Soil Moisture Retrieval from Sentinel-1**
+[DOI](https://doi.org/10.1016/j.rse.2025.115146)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p32.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Mapping of Multi-Depth Soil Water Content Using UAV**
+[DOI]( https://doi.org/10.1111/sum.70156)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p41.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Random Forest Soil Moisture Estimation**
+[DOI](https://doi.org/10.3390/rs16111962)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p42.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
+

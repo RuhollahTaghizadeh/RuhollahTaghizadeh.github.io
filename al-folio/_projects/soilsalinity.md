@@ -1,24 +1,24 @@
 ---
 layout: page
-title: Electromagnetic Induction & Soil Salinity
-description: Uses EMI conductivity surveys with calibration to map salinity hotspots and depth patterns for targeted reclamation.
-img: assets/img/em_soil.png
+title: Soil Salinity
+description: Maps salinity risk and trends using ML with terrain, climate, land use, and remote sensing to guide mitigation.
+img: assets/img/salinity_map.png
 importance: 1
 category: Land Degradation & Soil Quality
 related_publications: true
 ---
 
-This project maps soil salinity efficiently using electromagnetic induction (EMI) surveys that measure apparent electrical conductivity at high sampling density. We calibrate EMI signals with targeted soil sampling and salinity indicators, accounting for confounding effects such as moisture and texture. Where needed, inversion is used to infer depth-related conductivity patterns for 3D salinity understanding. Outputs include salinity hotspot maps that support targeted reclamation and monitoring.
+This project maps soil salinization as a land degradation process using machine learning and multi-source environmental data. We link measured salinity indicators to drivers and symptoms captured by terrain/hydrology, climate, land use/irrigation proxies, geology, and remote sensing signals. Models are evaluated with spatially robust validation to ensure realistic generalization. Outputs include salinity maps and, when feasible, risk/confidence layers to guide monitoring and mitigation.
 
 **Main focus**
-- Rapid, high-resolution salinity mapping using EMI surveys.
-- Convert conductivity measurements into actionable salinity indicators.
-- Support management with hotspot maps and depth-aware understanding.
+- Data-driven salinity mapping to support land degradation mitigation.
+- Integrate drivers (climate/terrain/land use) with remote sensing evidence.
+- Communicate risk and reliability to prioritize actions and sampling.
 
 **Objectives**
-1. Acquire dense EMI conductivity data across fields/landscapes.
-2. Calibrate and model EMI signals using soil samples and validation.
-3. Produce salinity maps (and depth patterns where possible) for intervention planning.
+1. Compile salinity observations and relevant driver covariates for modelling.
+2. Train ML/ensemble models with spatial validation for realistic performance.
+3. Deliver salinity + risk/confidence layers for targeted monitoring and intervention.
 
 ------------------------------------------------------------------------
 
@@ -35,3 +35,50 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Global Soil Salinity Estimation**
+[DOI](https://doi.org/10.34133/remotesensing.0130)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p43.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Wavelet-Transformed SVR for Soil Salinity Prediction**
+[DOI](https://doi.org/10.1016/j.geoderma.2020.114793)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p44.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **EM38 Inversion Mapping of Soil Salinity**
+[DOI](https://doi.org/10.2136/sssaj2014.11.0447)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p45.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
+

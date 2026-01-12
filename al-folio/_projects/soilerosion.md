@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soil Erosion with Machine & Deep Learning
+title: Soil Erosion
 description: Detects erosion and deposition features from imagery using ML/CNN segmentation, producing high-resolution hotspot maps.
 img: assets/img/erosion-map.png
 importance: 1
@@ -35,3 +35,46 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Erosion-SAM**
+[DOI](https://doi.org/10.1016/j.catena.2025.108954)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p38.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Erosion Evidence from Soil 13C Patchiness and 15N Uniformity**
+[DOI](https://doi.org/10.1016/j.agee.2023.108616)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p39.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Soil Erosion Mapping**
+[DOI](https://doi.org/10.3390/soilsystems3030043)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p40.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
+
