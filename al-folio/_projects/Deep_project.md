@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neural Networks for Soil Mapping
+title: Neural Networks
 description: Uses CNN/deep models to learn spatial patterns from gridded covariates, improving soil predictions with confidence layers.
 img: assets/img/deep_learning.png
 importance: 1

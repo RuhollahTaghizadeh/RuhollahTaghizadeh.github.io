@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spatial Prediction of Soils
+title: Soil Mapping
 description: Maps soil properties from samples using covariates and spatial validation, producing high-resolution predictions with confidence.
 img: assets/img/spatial_soil.png
 importance: 1
@@ -33,5 +33,45 @@ This project converts point-based soil observations into continuous, high-resolu
 ::: caption
 Graphical abstract summarizing the workflow and key results.
 :::
+
+------------------------------------------------------------------------
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Imbalanced Soil Texture Class Prediction**
+[DOI](https://doi.org/10.1016/j.geodrs.2024.e00821)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p7.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **UMAP-Enhanced Machine Learning for Soil Class Delineation**
+[DOI](https://doi.org/10.1016/j.geodrs.2024.e00754)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p8.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Data Mining Classifiers for USDA Soil Family Mapping**
+[DOI](https://doi.org/10.1016/j.geoderma.2015.04.008)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p9.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
 
 ------------------------------------------------------------------------
