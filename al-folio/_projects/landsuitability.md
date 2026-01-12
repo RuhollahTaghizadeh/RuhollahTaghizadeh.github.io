@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Land Suitability with Machine Learning
+title: Land Suitability
 description: Learns suitability patterns from soil and environmental constraints, producing spatial suitability maps and key limiting factors.
 img: assets/img/landsuitability_map.png
 importance: 1
@@ -35,3 +35,43 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **ML for Land Suitability and Sustainable Agricultural Production**
+[DOI](https://doi.org/10.3390/agronomy10040573)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p22.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Multi-Criteria Decision Models for Wheat Suitability Assessment**
+[DOI](https://doi.org/10.3390/rs16142566)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p23.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Regional-Scale Soil Management Zone Mapping Using ML**
+[DOI](https://doi.org/10.3390/agronomy13020445)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p24.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+

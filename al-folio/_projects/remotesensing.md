@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Remote Sensing for Soil Estimation
+title: Remote Sensing
 description: Compares multispectral, hyperspectral, and radar signals to predict soil properties, identifying best sensors and combinations.
 img: assets/img/rs_map.png
 importance: 1
@@ -35,3 +35,91 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Multitemporal Sentinel-2 SWIR-Based SOC Estimation**
+[DOI](https://doi.org/10.1016/j.rsase.2025.101736)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p28.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **PRISMA Hyperspectral Mapping of Soil Organic Carbon**
+[DOI](https://doi.org/10.3390/rs16122149)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p29.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Optimizing Rain Gauge Networks Using Remote Sensing**
+[DOI](https://doi.org/10.3390/rs13214243)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p30.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Multitemporal Sentinel-2 SWIR-Based SOC Estimation**
+[DOI](https://doi.org/10.1016/j.rsase.2025.101736)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p28.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **PRISMA Hyperspectral Mapping of Soil Organic Carbon**
+[DOI](https://doi.org/10.3390/rs16122149)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p29.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Optimizing Rain Gauge Networks Using Remote Sensing**
+[DOI](https://doi.org/10.3390/rs13214243)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p30.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
+

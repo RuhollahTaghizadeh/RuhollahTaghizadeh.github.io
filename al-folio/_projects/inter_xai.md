@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interpretable & Explainable AI in Soil Science
+title: X-AI
 description: Explains why models predict patterns by highlighting key drivers and local effects, improving trust and scientific insight.
 img: assets/img/inter_xai.png
 importance: 1
@@ -33,5 +33,43 @@ This project makes soil machine learning more transparent by adding interpretabi
 ::: caption
 Graphical abstract summarizing the workflow and key results.
 :::
+
+------------------------------------------------------------------------
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Explainable AI for Interpreting SOC Prediction**
+[DOI](https://doi.org/10.1111/ejss.70071)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p19.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Super Learner Boosts ML Accuracy in DSM**
+[DOI](https://doi.org/10.1016/j.geoderma.2021.115108)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p20.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Explainable AI in Geohazards: A Systematic Review**
+[DOI](https://doi.org/10.32604/cmes.2025.074768)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p21.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
 
 ------------------------------------------------------------------------

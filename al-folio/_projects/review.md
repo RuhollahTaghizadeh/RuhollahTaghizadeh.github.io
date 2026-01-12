@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cross-Disciplinary ML Review Papers
+title: Review Papers
 description: Synthesizes ML methods across domains, highlighting best practices in validation, explainability, and reproducible workflows.
 img: assets/img/other_ml_methods.png
 importance: 1
@@ -35,3 +35,70 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Machine Learning in Archaeological Practice**
+[DOI](DOI: 10.5334/jcaa.201)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p31.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Soil Moisture Retrieval from Sentinel-1**
+[DOI](https://doi.org/10.1016/j.rse.2025.115146)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p32.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Digital Soil Mapping in Iran**
+[DOI](https://doi.org/10.1016/B978-0-443-15341-9.00027-7)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p33.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 4 — **Conventional vs Digital Soil Mapping in Iran**
+[DOI](https://doi.org/10.1016/j.catena.2019.104424)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p34.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 5 — **Explainable AI in Geohazards: A Systematic Review**
+[DOI](https://doi.org/10.32604/cmes.2025.074768)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p21.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+
+------------------------------------------------------------------------
+
+
+

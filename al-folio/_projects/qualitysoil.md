@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soil Health & Soil Quality Mapping
+title: Soil Health
 description: Predicts soil health indicators spatially to support management zones, monitoring, and targeted restoration with confidence.
 img: assets/img/soil_health.png
 importance: 1
@@ -35,3 +35,49 @@ Graphical abstract summarizing the workflow and key results.
 :::
 
 ------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+## Papers (selected)
+
+### Paper 1 — **Soil Quality in Protected vs Degraded Semiarid Oak Forests**
+[DOI](https://doi.org/10.1016/j.catena.2022.106204)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p25.png" title="Paper 1 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 2 — **Soil Quality Variability Within Management Zones**
+[DOI](https://doi.org/10.1016/j.catena.2021.105835)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p26.png" title="Paper 2 GA" class="img-fluid rounded z-depth-1" %}
+
+<br><br>
+
+---
+
+### Paper 3 — **Slope and Land Use Change Impacts on Soil Quality**
+[DOI](https://doi.org/10.1016/j.geoderma.2017.12.024)
+
+<br>
+
+{% include figure.liquid loading="lazy" path="assets/img/p27.png" title="Paper 3 GA" class="img-fluid rounded z-depth-1" %}
+
+<br>
+
+
+------------------------------------------------------------------------
+
+
