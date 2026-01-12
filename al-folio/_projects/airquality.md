@@ -38,12 +38,9 @@ Graphical abstract summarizing the workflow and key results.
 
 
 
-
-------------------------------------------------------------------------
-
 ## Papers (selected)
 
-### Paper 1 — **Seasonal Drivers of Dust Pollution Using Data Mining and Game Theory** — *Ecological Indicators, 2021*
+### Paper 1 — **Seasonal Drivers of Dust Pollution Using Game Theory**
 [DOI](https://doi.org/10.1016/j.ecolind.2021.108287)
 
 <br>
@@ -54,8 +51,8 @@ Graphical abstract summarizing the workflow and key results.
 
 ---
 
-### Paper 2 — **Assessing ANFIS Dust Predictions: Accuracy, Uncertainty, and Interpretability** — *Environmental Science and Pollution Research, 2021*
-[DOI](https://doi.org/10.1007/s11356-020-10957-z) · [Code](https://github.com/yourrepo)
+### Paper 2 — **Dust Predictions: Accuracy, Uncertainty, and Interpretability**
+[DOI](https://doi.org/10.1007/s11356-020-10957-z)
 
 <br>
 
@@ -65,7 +62,7 @@ Graphical abstract summarizing the workflow and key results.
 
 ---
 
-### Paper 3 — **Long-Term Air Pollution Effects on Mortality and Morbidity** — *Atmospheric Pollution Research, 2021*
+### Paper 3 — **Long-Term Air Pollution Effects on Mortality and Morbidity**
 [DOI](https://doi.org/10.1016/j.apr.2020.10.007)
 
 <br>
