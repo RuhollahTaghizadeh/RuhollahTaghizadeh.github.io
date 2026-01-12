@@ -4,7 +4,7 @@ title: Land Suitability
 description: Learns suitability patterns from soil and environmental constraints, producing spatial suitability maps and key limiting factors.
 img: assets/img/landsuitability_map.png
 importance: 1
-category: Land Degradation & Soil Quality
+category: Environmental Applications
 related_publications: true
 ---
 

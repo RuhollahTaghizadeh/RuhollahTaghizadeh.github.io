@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Dust
+title: Dust Pollution
 description: Predicts pollutants across space and time using monitoring, meteorology, and covariates, generating exposure maps and hotspots.
 img: assets/img/ai_quality.png
 importance: 1
-category: Land Degradation & Soil Quality
+category: Environmental Applications
 related_publications: true
 ---
 

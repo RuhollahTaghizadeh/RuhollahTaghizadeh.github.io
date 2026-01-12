@@ -41,8 +41,8 @@ Graphical abstract summarizing the workflow and key results.
 
 ## Papers (selected)
 
-### Paper 1 — **Global Soil Salinity Estimation**
-[DOI](https://doi.org/10.34133/remotesensing.0130)
+### Paper 1 — **Predicting Soil Weathering Indices Using FTIR**
+[DOI](https://doi.org/10.1016/j.catena.2021.105437)
 
 <br>
 
@@ -52,8 +52,8 @@ Graphical abstract summarizing the workflow and key results.
 
 ---
 
-### Paper 2 — **Wavelet-Transformed SVR for Soil Salinity Prediction**
-[DOI](https://doi.org/10.1016/j.geoderma.2020.114793)
+### Paper 2 — **Predicting Soil Organic Carbon Using FTIR**
+[DOI](https://doi.org/10.1016/j.catena.2021.105280)
 
 <br>
 
@@ -63,8 +63,8 @@ Graphical abstract summarizing the workflow and key results.
 
 ---
 
-### Paper 3 — **EM38 Inversion Mapping of Soil Salinity**
-[DOI](https://doi.org/10.2136/sssaj2014.11.0447)
+### Paper 3 — **Remote Sensing and Vis–NIR for Soil Mapping**
+[DOI](https://doi.org/10.1016/j.rsase.2020.100398)
 
 <br>
 
