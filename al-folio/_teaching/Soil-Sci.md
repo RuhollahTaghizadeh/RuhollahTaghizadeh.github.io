@@ -6,15 +6,11 @@ description: "Bachelor’s-level introduction to soil science, covering core con
 ---
 
 **Level:** Bachelor’s  
-**Institution:** University of Applied Forest Sciences Rottenburg
-**Role:** Course instructor (lectures)
+**Institution:** University of Applied Forest Sciences Rottenburg  
+**Role:** Course instructor (lectures)  
 
 ## Overview
 This course provides a comprehensive introduction to **soil science** for undergraduate students in agriculture and natural resources. It covers the fundamental principles that govern soil formation, properties, and functions, with an emphasis on understanding soils as a dynamic system that supports plant growth, regulates water and nutrient cycles, and underpins sustainable land management.
-
-The course is structured in two complementary components:  
-1) a **theoretical part** covering core concepts across soil physics, chemistry, biology, and classification, and  
-2) a **laboratory part** where students gain hands-on experience measuring key soil properties using standard methods.
 
 ## Learning objectives
 By the end of this course, students will be able to:
@@ -25,8 +21,6 @@ By the end of this course, students will be able to:
 - interpret soil profiles and apply basic **soil classification** concepts and terminology
 - select and apply appropriate laboratory methods to quantify fundamental soil properties
 - connect soil properties to practical outcomes in **agriculture, land management, and environmental quality**
-
-## Teaching format
 
 ### Theoretical sessions
 Topics include:
