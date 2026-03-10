@@ -6,9 +6,8 @@ description: "Bachelor’s-level introduction to soil science, covering core con
 ---
 
 **Level:** Bachelor’s  
-**Institution:** Ardakan University  
-**Faculty:** Agriculture & Natural Resources  
-**Role:** Course instructor (lectures + laboratory)
+**Institution:** University of Applied Forest Sciences Rottenburg
+**Role:** Course instructor (lectures)
 
 ## Overview
 This course provides a comprehensive introduction to **soil science** for undergraduate students in agriculture and natural resources. It covers the fundamental principles that govern soil formation, properties, and functions, with an emphasis on understanding soils as a dynamic system that supports plant growth, regulates water and nutrient cycles, and underpins sustainable land management.
@@ -29,7 +28,7 @@ By the end of this course, students will be able to:
 
 ## Teaching format
 
-### 1) Theoretical sessions
+### Theoretical sessions
 Topics include:
 - Soil formation and profile development (pedogenesis)
 - Soil morphology: horizons, color, structure, consistency, and field description
@@ -39,14 +38,6 @@ Topics include:
 - Soil fertility basics and constraints in agricultural soils
 - Soil classification and interpretation (introductory level)
 
-### 2) Laboratory sessions
-Students practice standard soil analysis methods, including:
-- particle size analysis (texture determination)
-- bulk density and porosity (intro)
-- soil pH and electrical conductivity (EC)
-- organic matter / organic carbon (intro methods)
-- carbonate content (as relevant to local soils)
-- basic interpretation of lab results and reporting
 
 ## Key topics
 - Soil formation and horizon development  
@@ -59,8 +50,6 @@ Students practice standard soil analysis methods, including:
 
 ## Assessment (typical)
 - quizzes / midterm and final exam (theory)
-- lab reports and practical assignments
-- participation in lab sessions and data interpretation exercises
 
 ---
 If you are a student in this course and need access to lecture slides, lab protocols, or assignments, please contact me.
